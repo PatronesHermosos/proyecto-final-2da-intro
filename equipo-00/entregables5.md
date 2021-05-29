@@ -1,0 +1,3 @@
+- Numero del equipo:
+- Nombre del equipo:
+- Nombre de todos miembros en tu equipo:
