@@ -1,4 +1,4 @@
-- Numero del equipo:
+- Número del equipo:
 - Nombre del equipo:
 - Nombre de todos miembros en tu equipo:
 - ¿Qué problema global eligieron ustedes?
