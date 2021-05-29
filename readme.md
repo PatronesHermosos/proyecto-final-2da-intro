@@ -1,3 +1,5 @@
+# Proyecto Final Primera Generación Curso Introductorio Patrones Hermosos
+
 Hola y bienvenidas!
 
 Este repositorio es para los proyectos finales del curso introductorio Patrones Hermosos, completados por nuestra primera generación. Cada grupo tiene una carpeta en la cual puede guardar todos
