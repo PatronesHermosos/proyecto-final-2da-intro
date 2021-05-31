@@ -1,6 +1,6 @@
-- Número del equipo: 00
-- Nombre del equipo: Prueba
-- Nombre de todos miembros en tu equipo: Kasturi Shah
-- ¿Qué problema global eligieron ustedes? Pobreza
-- ¿Porque eligieron ese problema? Es un problema que a mí toca mucho el corazón
+- Número del equipo:
+- Nombre del equipo:
+- Nombre de todos miembros en tu equipo:
+- ¿Qué problema global eligieron ustedes?
+- ¿Porque eligieron ese problema?
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
