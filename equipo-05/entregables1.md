@@ -1,6 +1,6 @@
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
+- Número del equipo: 05 
+- Nombre del equipo:  WSCO-5
+- Nombre de todos miembros en tu equipo: Sánchez Isabel,  Walle Myriam, Del Olmo Veronica,  Ceniceros Maria Jose 
 - ¿Qué problema global eligieron ustedes?
-- ¿Porque eligieron ese problema?
+- ¿Porque eligieron ese problema?  
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
