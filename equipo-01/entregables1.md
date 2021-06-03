@@ -4,4 +4,4 @@
 - ¿Qué problema global eligieron ustedes? "Pobreza Cero"
 - ¿Porque eligieron ese problema? Creemos que la inequidad es un problema que atraviesa a todas las sociedades, incluso en los paises mas opulentos, porque entendemos que el conflcito no es la escases de recursos si no la distribucion de la mismos. Pensamos que la tecnologia es una herramienta extramadamente poderosa para poder incidir y modificar el problema de la distribucion, tendiendo redes solidarias y accesibles para tod@s
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
-- Crear una aplicacion de utilizacion global, manejada SIN FINES DE LUCRO y de manera descentralizada, una plataforma de intercambio donde se puedan intercambiar productos y/o servicios, ofreciendo o solicitando los mismos segun necesidades particulares.
+- Crear una aplicacion de utilizacion global, manejada SIN FINES DE LUCRO y de manera descentralizada, una plataforma donde se puedan donar y/o intercambiar productos y/o servicios, ofreciendo o solicitando los mismos segun necesidades particulares.
