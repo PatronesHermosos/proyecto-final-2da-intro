@@ -1,6 +1,6 @@
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
-- ¿Qué problema global eligieron ustedes?
-- ¿Porque eligieron ese problema?
-- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
+- Número del equipo:2
+- Nombre del equipo: Ada Lovelance 
+- Nombre de todos miembros en tu equipo: Natalia Beltrán, Laura Muñóz, Kenia Flores y Dalinda Montes. 
+- ¿Qué problema global eligieron ustedes? elegimos dos porque pensamos que van de la mano uno es Educación de calidad y otro es vida submarina.
+- ¿Porque eligieron ese problema? pensamos que con el mejoramiento de la educación se podría mejorar el pensamiento de conciencia ambiental. 
+- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): Poder crear algunos talleres para diferentes personas en conciencia del medio ambiente, informarnos acerta de como otros países tienen una mejor calidad en la educación y ver de que manera se pudieran tomar algunas bases y mejorar la educación. 
