@@ -1,6 +1,6 @@
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
-- ¿Qué problema global eligieron ustedes?
-- ¿Porque eligieron ese problema?
-- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
+- Número del equipo: 9
+- Nombre del equipo: Acción sin barreras
+- Nombre de todos miembros en tu equipo: Ivanka Garcilazo, Mayra Hernández, Ximena Nuñez, Alejandra Galván
+- ¿Qué problema global eligieron ustedes? cambio climático, producción y consumo irresponsable y desigualdad de género
+- ¿Porque eligieron ese problema? Porque es un problema bastante actual que afecta a todos y todas, así también creemos que el rol que juega la mujer en el cuidado del medio ambiente es muy importante. También actualmente muchas mujeres tienen barreras para generar acciones que produzcan cambios que beneficien al medio ambiente y a su preservación.
+- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): Buscar concientizar e informar a las personas sobre el cambio climático a través de un mapa global del estado actual, causas, soluciones y ecofeminismo (por medio de personajes que vayan interactuando con esa información) por medio de una página web.
