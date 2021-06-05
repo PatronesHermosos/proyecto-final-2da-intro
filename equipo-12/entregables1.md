@@ -9,4 +9,4 @@
 - ¿Porque eligieron ese problema?
 - Es una problemática que a afectado en muchas partes del planeta, no solo a seres humanos si no también a animales y plantas, por lo que es importante visibilizar el problema 
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
-Crear conciencia, generar metarial sobre la problematica del cambio climático, implemetar energias renovables en nuestro entorno cercano
+Crear conciencia, generar material sobre la problematica del cambio climático y generar información sobre la implementación de  energias renovables en nuestro entorno cercano
