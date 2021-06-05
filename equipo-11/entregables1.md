@@ -3,4 +3,4 @@
 - Nombre de todos miembros en tu equipo: Ana Ayala, Catalina Vega, Susana Camacho, Karla Villanueva
 - ¿Qué problema global eligieron ustedes? Fast Fashion
 - ¿Porque eligieron ese problema? Consideramos que es un problema actual con gran impacto tanto ecológico como social, y a pesar de haber tomado importancia, aún hay mucha información por conocer y ser compartida. 
-- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): Hacer una página web para difundir información del impacto de este problema y algunas soluciones, desde pequeñas acciones personales hasta diferentes marcas que realmente cumplan con la bandera de la ecología.
+- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): Hacer una infografía para difundir información del impacto de este problema y algunas soluciones, desde pequeñas acciones personales hasta diferentes marcas que realmente cumplan con la bandera de la ecología.
