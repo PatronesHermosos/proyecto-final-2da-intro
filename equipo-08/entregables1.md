@@ -1,6 +1,6 @@
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
-- ¿Qué problema global eligieron ustedes?
-- ¿Porque eligieron ese problema?
+- Número del equipo: 8
+- Nombre del equipo: Escuadrón Ing.
+- Nombre de todos miembros en tu equipo: Jazmin Tejas, Alejandra Muñoz, Iliana Sánchez, Rocio Reyna
+- ¿Qué problema global eligieron ustedes? Uso inapropiado e indirecto del agua
+- ¿Porque eligieron ese problema? Nos llamó la atención porque se tiene un gran impacto en dos sentidos: el consumo de carnes y el consumo de plásticos, ambos procesos consumen una gran cantidad de agua, lo cual impacta en la disponibilidad del líquido para el bienestar de las personas. El consumo de carnes tiene un impacto indirecto en el uso del agua, 
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
