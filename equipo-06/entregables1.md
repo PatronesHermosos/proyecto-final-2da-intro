@@ -1,6 +1,6 @@
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
-- ¿Qué problema global eligieron ustedes?
-- ¿Porque eligieron ese problema?
-- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
+- Número del equipo: 06
+- Nombre del equipo: EPOWER
+- Nombre de todos miembros en tu equipo: Arely Vega, Erika Leon, Laura Sabogal y Rouss
+- ¿Qué problema global eligieron ustedes? ODS #5 (Igualdad de género) y #1 (Fin de la pobreza)
+- ¿Porque eligieron ese problema? Porque consideramos que la mujer debe tener las mismas oportunidades que  los hombres, ya que hemos notado en base a diversos estudios que la mujer es el genero que se ve más afectado y discrimido en el alcance de los ODS. 
+- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): Una pieza arte que sirva como red a apoyo para el empoderamiento de la mujer y la consientización de la desigualdad de genero
