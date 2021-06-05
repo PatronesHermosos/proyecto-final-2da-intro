@@ -1,6 +1,7 @@
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
-- ¿Qué problema global eligieron ustedes?
-- ¿Porque eligieron ese problema?
+- Número del equipo: 10
+- Nombre del equipo: The Heroines
+- Nombre de todos miembros en tu equipo: Valentina Serrano Franco, Bianca Loyola, Alondra Galindo y Sofia Rubio
+- ¿Qué problema global eligieron ustedes? La contienda eterna... la discriminación entre seres humanos.
+- ¿Porque eligieron ese problema? Porque es algo que persiste a pesar de tantas luchas, ya lo normalizamos tanto que lo estamos dejando de notar. 
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
+- Crear una página educativa para las personas en general y dentro de ella grupos de apoyo para las personas discriminadas. Procuraremos que la página educativa logre prevenir y erradicar progresivamente la discriminación así como que los grupos de apoyo den el valor a las personas discriminadas de defenderse.
