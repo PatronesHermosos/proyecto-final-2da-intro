@@ -1,6 +1,6 @@
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
-- ¿Qué problema global eligieron ustedes?
-- ¿Porque eligieron ese problema?
-- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
+- Número del equipo: 14
+- Nombre del equipo: sam programanding para tu <3
+- Nombre de todos miembros en tu equipo: Montserrat Castillo, Sofia Alejandra Ampudia, Anyalexie Castillo
+- ¿Qué problema global eligieron ustedes? Desigualdad de género en la educación 
+- ¿Porque eligieron ese problema? La desigualdad de género es algo que vivímos a diario, y la educación es algo sumamente importante ya que es la herramienta para combatir con todas las injusticias, que deberían ser justas para todos y que llegue a todos los rincones del mundo.
+- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): Utilzar programas como herramientas primordiales para darle la oportunidad a las chicas para que se prueben ante el mundo y demostrar sus capacidades.
