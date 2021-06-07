@@ -1,6 +1,10 @@
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
-- ¿Qué problema global eligieron ustedes?
-- ¿Porque eligieron ese problema?
+- Número del equipo: 15
+- Nombre del equipo: 
+- Nombre de todos miembros en tu equipo: 
+- Gabriela Amicone
+- Jazmín Bautista
+- Natalia Molina
+- ¿Qué problema global eligieron ustedes?: Desigualdad de género
+- ¿Porque eligieron ese problema?: Creemos que es un problema bastante grave, que viene de mucho tiempo atras y que aunque ya se ha expuesto se requiere de mucha conciencia, información y disposición para poder hablar sobre esto, ya que nos afecta en varios ámbitos, así como sociales, profesionales y laborales. 
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
+- Concientizar e informar la brecha de género que existe dentro del ámbito laboral y social hacia las mujeres.
