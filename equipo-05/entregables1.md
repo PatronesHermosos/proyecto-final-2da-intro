@@ -3,4 +3,5 @@
 - Nombre de todos miembros en tu equipo: Sánchez Isabel,  Walle Myriam, Del Olmo Veronica,  Ceniceros Maria Jose 
 - ¿Qué problema global eligieron ustedes? "Personas y animales desaparecidos"
 - ¿Porque eligieron ese problema? Desde nuestra perspectiva queremos ayudar a hacer justicia,ayudando a familias y evitando que ocurran otros eventos desagradables. 
-- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS? Crear una app o citio web para poder solucionar la problemática principal del proyecto. 
+- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS?Crear una aplicación o sitio web, el cual ayude a convatir el problema anteriormente mencionado.
+
