@@ -1,6 +1,6 @@
-- Numero del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
+- Numero del equipo: 2
+- Nombre del equipo: Ada Lovelace
+- Nombre de todos miembros en tu equipo: Natalia Beltrán, Dalinda Montes, Kenia Flores y Laura García.  
 - Describe las tareas que harán cada miembro de su grupo:
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 
