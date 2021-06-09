@@ -1,6 +1,6 @@
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
-- ¿Qué problema global eligieron ustedes?
-- ¿Porque eligieron ese problema?
-- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
+- Número del equipo: 04
+- Nombre del equipo: BE the change
+- Nombre de todos miembros en tu equipo: Claudia Sánchez, Selene Gómez, Ana Pineda, Yazmín Nopal
+- ¿Qué problema global eligieron ustedes? Cambio climático 
+- ¿Porque eligieron ese problema? Es uno de los problemas con más urgencia a tratar, ya que si no se resuelve ahotita, en fututuro ya no será posible.
+- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): Queremos concientizar sobre este problema, para exponer lo urgente e importante qeu es llegar a una solución.
