@@ -3,10 +3,10 @@
 - Nombre del equipo: Code Girls 
 
 - Nombre de todos miembros en tu equipo: 
-* Gissel Torres Rodriguez
-* Estefania Vianey Rivas Gomez
-* Gloria Zagal 
-* Carolina Vazquez Pólito
+       * Gissel Torres Rodriguez
+       * Estefania Vianey Rivas Gomez
+       * Gloria Zagal 
+       * Carolina Vazquez Pólito
 
 - ¿Qué problema global eligieron ustedes?
 Ciudades y comunidades sustentables; transporte sustentable. (Meta 11)
