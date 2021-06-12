@@ -1,7 +1,7 @@
 - Numero del equipo: 12
 - Nombre del equipo: Ajolotes Atmosféricos
 - Nombre de todos miembros en tu equipo:
-- Anna, Valeria, Daniela 
+- Daniela Alvarado, Valeria Escalona y Anna Lozano
 - Describe las tareas que harán cada miembro de su grupo: 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 
