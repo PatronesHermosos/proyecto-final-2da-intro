@@ -1,4 +1,4 @@
-- Numero del equipo:
+- Numero del equipo: 
 - Nombre del equipo:
 - Nombre de todos miembros en tu equipo:
 - Describe las tareas que harán cada miembro de su grupo:
