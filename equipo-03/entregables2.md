@@ -8,12 +8,6 @@
 - **Describe las tareas que harán cada miembro de su grupo:** (Por definir)
   El proyecto se dividio en dos partes:
  
-  | Pieza de arte | Página web |
-| ------------- | ------------- |
-| Estefania Rivas  | Gloria Zagal  |
-| Carolina Vazquez  | Gissel Torres |
-
-
 | Pieza de arte | Página web |
 | --- | --- |
 | git status | Enumera todos los archivos nuevos o modificados |
