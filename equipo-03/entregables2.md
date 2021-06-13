@@ -10,8 +10,8 @@
  
 | Pieza de arte | Página web |
 | --- | --- |
-| git status | Enumera todos los archivos nuevos o modificados |
-| git diff | Muestra las diferencias de archivo que no han sido preparadas |
+| Estefania Rivas | Gloria Zagal |
+| Carolina Vazquez | Gissel Torres |
 
 
 - **Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:** El enlace del video es el siguiente: 
