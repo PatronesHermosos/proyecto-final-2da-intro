@@ -10,13 +10,7 @@
  
 | Pieza de arte | Act. a desarrollar | Página web | Act. a desarrollar |
 | --- | --- | --- | --- |
-| Estefania Rivas | - Bosquejo final de obra de arte
-- Colaboración de obra de arte (elementos)
-- Testeo de obra de arte
-- Plantear dudas (general del proyecto)
-Plantear dudas (especificos)
-- Investigación
- | Gloria Zagal | |
+| Estefania Rivas | Bosquejo final de obra de arte; Colaboración de obra de arte (elementos); Testeo de obra de arte; Plantear dudas (general del proyecto); Plantear dudas (especificos); Investigación | Gloria Zagal | Colaboración de pág. web;  | 
 | Carolina Vazquez | - q | Gissel Torres | |
 
 
