@@ -9,7 +9,7 @@
   * Carolina Vazquez Pólito
 
 - ¿Qué problema global eligieron ustedes?
-Ciudades y comunidades sustentables; transporte sustentable. (Meta 11)
+Ciudades y comunidades sustentables (Objetivo 11); transporte sustentable (Meta 2) 
 
 - ¿Porque eligieron ese problema?
 Porque es un problema que engloba y abarca ampliamente a comunidades y grupos de personas y hay muchas aternativas de solución ya que hay 4 mil millones de habitantes en el mundo lo cual representa el 50% de la porblacion mundial de las cuales viven en ciudades y el aumento de las personas en la ciudades indica aborda ciertos problemas a resolver. 
