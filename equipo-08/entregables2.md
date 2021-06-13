@@ -5,7 +5,7 @@
 - Jazmin Tejas: Solución de plásticos 
 - Alejandra Muñoz: Problemática de plásticos
 - Iliana Sánchez: Problemática ganadería y agricultura 
-- Rocio Reyna: Solución de ganadería y agrucultura 
+- Rocio Reyna: Solución de ganadería y agricultura 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
