@@ -14,7 +14,7 @@
 | Carolina Vazquez  | Gissel Torres |
 
 
-| Comando | Descripción |
+| Pieza de arte | Página web |
 | --- | --- |
 | git status | Enumera todos los archivos nuevos o modificados |
 | git diff | Muestra las diferencias de archivo que no han sido preparadas |
