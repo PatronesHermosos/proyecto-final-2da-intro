@@ -14,6 +14,6 @@
 | Estefania Rivas | Colaboración de obra de arte; Colaboración de página web; Verificación de códigos en Git Hub; Plantear dudas (de forma especifica); Realizar investigación | Gissel Torres | Actividades por definir |
 
 
-- **Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:** El enlace del video es el siguiente: 
+- **Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:** El enlace del video es el siguiente: https://youtu.be/-6e3yxHkxBk
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
