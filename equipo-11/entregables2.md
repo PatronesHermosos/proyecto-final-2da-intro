@@ -1,5 +1,5 @@
 - Numero del equipo:11
-- Nombre del equipo:Friendly-fashion
+- Nombre del equipo:Friendly-fashioners
 - Nombre de todos miembros en tu equipo:Ana Ayala, Catalina Vega, Susana Camacho, Karla Villanueva
 - Describe las tareas que harán cada miembro de su grupo:
 CAMISA = Susana
