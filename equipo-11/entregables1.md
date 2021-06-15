@@ -1,5 +1,5 @@
 - Número del equipo: 11
-- Nombre del equipo: Friendly-fashion
+- Nombre del equipo: Friendly-fashioners
 - Nombre de todos miembros en tu equipo: Ana Ayala, Catalina Vega, Susana Camacho, Karla Villanueva
 - ¿Qué problema global eligieron ustedes? Fast Fashion
 - ¿Porque eligieron ese problema? Consideramos que es un problema actual con gran impacto tanto ecológico como social, y a pesar de haber tomado importancia, aún hay mucha información por conocer y ser compartida. 
