@@ -21,6 +21,6 @@
   + Imagen continente americano: https://pixabay.com/es/vectors/mapa-am%C3%A9rica-del-norte-continente-307195/
   + Imágenes símbolo
 
-- Graben un video de 5-min usando el modelo “Entrega 3 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+- Graben un video de 5-min usando el modelo “Entrega 3 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://vimeo.com/570748122
 
 No se olviden de entregar el código que ha escrito cada miembro del grupo en su carpeta grupal.
