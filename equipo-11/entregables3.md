@@ -15,6 +15,7 @@
   8. Bamboo life: https://www.bamboo-life.com
   9. Hemlockhttps://www.hemlock.mx
   10. Caralarga: https://caralarga.com.mx
+  11. Logo: https://i.pinimg.com/originals/cd/05/ac/cd05acc2a20d7cc70162bbae79e11c3a.png
   Oros recursos:
   + Algunas soluciones e  ideas: https://www.eesi.org/articles/view/exploring-solutions-to-fast-fashion-and-excess-clothes
   + Artículo: The true cost of fast fashion model http://diposit.ub.edu/dspace/bitstream/2445/169553/1/TFG_ADEUS_GILIBETS_JULIA_JUL20.pdf
