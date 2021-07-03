@@ -1,4 +1,4 @@
-- Numero del equipo:
+- Numero del equipo: 
 - Nombre del equipo:
 - Nombre de todos miembros en su equipo:
 - El título de su proyecto:
