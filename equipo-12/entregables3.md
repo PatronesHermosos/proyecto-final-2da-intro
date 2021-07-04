@@ -1,4 +1,4 @@
-[Mano_Daniela_Alvarado.zip](https://github.com/PatronesHermosos/proyecto-final-2da-intro/files/6760576/Mano_Daniela_Alvarado.zip)
+
 - Número del equipo:
 - 12
 - Nombre del equipo:
@@ -20,3 +20,5 @@
 - Graben un video de 5-min usando el modelo “Entrega 3 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 
 No se olviden de entregar el código que ha escrito cada miembro del grupo en su carpeta grupal.
+
+[Mano_Daniela_Alvarado.zip](https://github.com/PatronesHermosos/proyecto-final-2da-intro/files/6760576/Mano_Daniela_Alvarado.zip)
