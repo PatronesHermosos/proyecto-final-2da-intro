@@ -23,5 +23,6 @@
 No se olviden de entregar el código que ha escrito cada miembro del grupo en su carpeta grupal.
 
 [Mano_Daniela_Alvarado.zip](https://github.com/PatronesHermosos/proyecto-final-2da-intro/files/6760576/Mano_Daniela_Alvarado.zip)
+
 [Codigo efecto_Hover.zip](https://github.com/PatronesHermosos/proyecto-final-2da-intro/files/6760720/Codigo.efecto_Hover.zip)
 
