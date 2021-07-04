@@ -4,7 +4,7 @@
 - Nombre del equipo:
 - Ajolotes Atmosféricos
 - Nombre de todos miembros en su equipo:
-- Daniela Alavrado, Ana Lozano y Valeria Escalona
+- Daniela Alvarado, Anna Lozano y Valeria Escalona
 - El título de su proyecto:
 - Cambio Climático Mundial
 - La lista de recursos y referencias que han usado:
