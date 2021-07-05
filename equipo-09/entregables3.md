@@ -1,5 +1,5 @@
-- Numero del equipo:
-- Nombre del equipo:
+- Numero del equipo: 09
+- Nombre del equipo: Acción Sin Barreras
 - Nombre de todos miembros en su equipo:
 - El título de su proyecto:
 - La lista de recursos y referencias que han usado:
