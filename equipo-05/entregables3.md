@@ -1,5 +1,5 @@
-- Numero del equipo:
-- Nombre del equipo:
+- Numero del equipo:5
+- Nombre del equipo:ISMY-FIVE 
 - Nombre de todos miembros en su equipo:
 - El título de su proyecto:
 - La lista de recursos y referencias que han usado:
