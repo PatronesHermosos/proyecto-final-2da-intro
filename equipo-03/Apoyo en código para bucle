@@ -1,0 +1,62 @@
+Apoyo para crear un bucle con cuadrados, que lleven espacio entre cada  cuadado.
+Codigo en HTML:
+<!--Lineas ciclovia-->
+
+<html>
+    <body></body>
+    <script src="Funciones.js"></script>     
+</html>
+<!-- tag para el "body" para crear las lineas-->
+<body></body> 
+<!-- enterramos la función para crear lineas dentro de script -->
+<script src="Funciones.js">
+  // todas las cosas dentro de un <script> están escrito en JavaScript
+</script> 
+<!-- necesitamos crear otro <script> para crear formas con cuadrados -->
+  <script>
+    // cuadrados en una linea
+    tamano = 50; // tamaño del cuadrado
+    n = 10; // numero de cuadrados
+    for (j=tamano;j<n*tamano;j=j+tamano){ // j está contando el numero de pixeles que tenemos
+        crear_cuadrado (j,200,tamano,tamano);
+    }
+</script>
+
+Codigo en JAVASCRIPT para crear los cuadrados:
+var crear_cuadrado = function(x,y,ancho,altura){
+
+    // posicion para el cuadrado
+    // x = 28px;
+    // y = 718px;
+
+    // color del circulo
+    color = 'rgb(255, 255, 255)';
+
+    // creamos un elemento en la pagina, del tipo div
+    var div = document.createElement('div');
+
+    // asignando sus propiedades del cuadrado 
+    div.id = "cuadrado"; // el nombre del div que estamos creando
+    div.style.zIndex = '1'; // orden atras o adelante
+    div.style.position = 'absolute'; // absolute o relativa 
+    div.style.left = x + '28px'; // posicion en eje left
+    div.style.top = y + '718px';  // posicion en eje top  
+    div.style.width = ancho + '18px';  // ancho del cuadrado  
+    div.style.height = altura + '2px';  // altura del cuadrado   
+    div.style.borderRadius = '0%'; // crear cuadrado
+    div.style.background = color;  // color  
+
+    // añadir este div al "cuerpo" de la pagina
+    document.getElementsByTagName('body')[0].appendChild(div);
+
+    // iniciamos el div en la posicion que queremos
+    div.x = x;
+    div.y = y;
+
+    return div;  
+} 
+
+No me aparece  en Google, reflejada estos codigos,  no se si este bien anclado en Html el JS, o tengo algo mal en el codigo e Java Script
+
+Gracias por el apoyo 
+
