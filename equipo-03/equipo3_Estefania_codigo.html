@@ -1,0 +1,30 @@
+<!--Lineas ciclovia-->
+
+<!-- tag para el "body" para crear las lineas-->
+<body></body>
+
+<!-- enterramos la función para crear lineas dentro de script -->
+<script src="equipo3_Estefania_funciones.js"></script>     
+
+<!-- necesitamos crear otro <script> para crear formas con cuadrados -->
+<script>
+    // todas las cosas dentro de un <script> están escrito en JavaScript
+
+    // circulos en un cuadrante
+    tamano = 20; // tamaño del circulo
+    n_fila = 30; // numero de los circulos en cada fila
+    n_columna = 10; // numero de los circulos en cada columna
+    for (j=tamano;j<(n_columna+1)*tamano;j=j+tamano){ // columnas
+        for (ii=tamano;ii<(n_fila+1)*tamano;ii=ii+tamano) { // filas
+            crear_cuadrado(j,ii,tamano,tamano,'rgb(255,0,0)');
+        }
+    }
+
+    // circulos en una linea
+    tamano = 20; // tamaño del circulo
+    n = 8; // numero de los circulos
+    for (j=40;j<n*tamano;j=j+tamano){ // j está contando el numero de pixeles que tenemos
+        crear_cuadrado(j,400,tamano,tamano,'rgb(255,255,255)');
+    }
+
+</script>
