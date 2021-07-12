@@ -1,0 +1,70 @@
+header {
+    background-image:url(Mapa\ de\ mexico.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    height: 1100px;
+    width: 1300px;
+    top: 0px;
+    }
+
+.ciudad img {
+    margin:auto;
+    display:block;
+    position: absolute;
+    left: 8px;
+    top: 300px;
+    height: 500px;
+    width: 1300px;
+
+}
+h1 {
+    color:white;
+    font-size: 50px;
+    text-align: center;
+}
+.ciclovia {
+    z-index:5;
+    position:absolute;
+    left:8px;
+    top:705px;
+    width: 1300px;
+    height:30px;
+    border-radius:0%;
+    background: rgb(16, 119, 85)
+}
+
+.linea{
+    z-index:5;
+    left:8px;
+    top:745px;
+    width: 18px;
+    height: 2px;
+    border-radius:0%;
+    background: rgb(194, 218, 218);
+    margin-inline-start: 5px;
+    display:inline-flex;
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+.carril{
+    z-index:5;
+    position:absolute;
+    left:8px;
+    top:735px;
+    width: 1300px;
+    height: 65px;
+    border-radius:0%;
+    background: rgb(90, 87, 87)
+}
+.señal{
+    z-index:5;
+    left:8px;
+    width: 40px;
+    height: 3px;
+    border-radius:0%;
+    background: rgb(255, 255, 255);
+    margin-inline-start: 20px;
+    display:inline-flex;
+    margin-top: 30px;
+    
+}
