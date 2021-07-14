@@ -1,0 +1,59 @@
+<div style="
+z-index:5;
+position:absolute;
+left:100px;
+top:200px;
+width:200px;
+height:100px;
+border-radius:0%;
+border: 3px solid">
+"el mas pequeño acto de amabilidad vale más que la más grande intención"
+</div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:400px;
+top:200px;
+width:200px;
+height:100px;
+border-radius:0%;
+border: 3px solid">
+"Se el cambio que quieres ser en el mundo"
+</div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:700px;
+top:200px;
+width:200px;
+height:100px;
+border-radius:0%;
+border: 3px solid">
+"puedes dar algo para cambiar todo"
+</div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:1000px;
+top:200px;
+width:200px;
+height:100px;
+border-radius:0%;
+border: 3px solid">
+"cambiar el mundo es una suma de todos nuestros pequeños actos"
+</div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:1300px;
+top:200px;
+width:200px;
+height:100px;
+border-radius:0%;
+border: 3px solid">
+"prueba dar y veras que grande te sientes"
+</div>
