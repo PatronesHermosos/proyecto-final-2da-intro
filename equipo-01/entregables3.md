@@ -1,8 +1,8 @@
-- Numero del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en su equipo:
+- Numero del equipo: 01
+- Nombre del equipo:javagirls
+- Nombre de todos miembros en su equipo:ANDRA, ANDREINA, SARA, AGUSTINA
 - El título de su proyecto:
-- La lista de recursos y referencias que han usado:
-- Graben un video de 5-min usando el modelo “Entrega 3 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+- La lista de recursos y referencias que han usado: HTMK,CCS,BOOTSRAP
+-Todavia no coincidimos para el video,y tenemos problemas para acomodar el codigo y que no se superpongan los trabajos, como se puede ver si se comparan el html de proyecto entrega final original y el mismo archivo con numero 2.
 
-No se olviden de entregar el código que ha escrito cada miembro del grupo en su carpeta grupal.
+El codigo esta subido en la carpeta. Gracias por su apoyo y perdon por la demora!
