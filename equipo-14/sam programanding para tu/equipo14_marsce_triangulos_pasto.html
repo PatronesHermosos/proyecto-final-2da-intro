@@ -1,0 +1,21 @@
+<!-- tag para el "body" de la pagina donde creamos circulos-->
+<body></body> 
+
+<script src="equipo14_marsce.js">
+    // todas las cosas dentro de un <script> están escrito en JavaScript
+</script>  
+
+<script>
+
+    // circulos en una linea
+    tamano = 100; // espacio entre cada repeticion de 4 triangulos
+    n = 8; // numero de repeticiones de los cuatro triangulos
+    // crear cuatro triangulos en una linea
+    for (j=tamano;j<n*tamano;j=j+tamano){ // j está contando el numero de pixeles que tenemos
+        crear_triangulo(j,500,tamano,tamano,'rgb(28, 145, 53)');
+        crear_triangulo(j+25,500,tamano,tamano,'rgb(35, 219, 74)');
+        crear_triangulo(j+50,500,tamano,tamano,'rgb(12, 110, 58)');
+        crear_triangulo(j+75,500,tamano,tamano,'rgb(122, 194, 156)');
+    }
+
+</script>
