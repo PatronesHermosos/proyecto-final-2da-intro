@@ -1,8 +1,8 @@
-- Numero del equipo:
+- Número del equipo:
 - Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
-- El título de su proyecto:
-- La lista de recursos y referencias que han usado:
-- Graben un video de 5-min usando el modelo “Entrega 3 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+- Nombre de todos miembros en el equipo:
+- El título del proyecto:
+- Actualizaciones de la lista de recursos y referencias que están usando para su proyecto final:
+- ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega y presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!
 
-No se olviden de entregar el código que ha escrito cada miembro del grupo en su carpeta grupal.
+No se olviden de subir (1) la plantilla de diapositivas rellenada y (2) los códigos que han escrito cada miembro del grupo en su carpeta grupal en Github.
