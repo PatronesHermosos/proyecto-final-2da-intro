@@ -1,0 +1,374 @@
+<!-- PARCHE TIERRA -->
+<div class= "Parche_tierra">
+
+  <div class= "tierra_corazon"> 
+  </div>  
+  <style>
+      .tierra_corazon {
+          width: 100px;
+          height: 100px;
+          background: skyblue;
+          z-index: 3;
+          transform: rotate(45deg);
+          /* Para mover la pocisión antes top:30rem & left: 75rem */ 
+          top: 480px; 
+          left: 1200px;
+          animation: heart 2s infinite alternate ease;
+      }
+   /* Todos los estílos van a afectar al before & after  */
+  .tierra_corazon, .tierra_corazon::before, .tierra_corazon::after {
+          height: 100px;
+          width: 100px;
+          background: skyblue;
+          position: absolute;
+  
+  
+          /* z-index: 3; */
+      }
+      .tierra_corazon::before, .tierra_corazon::after {
+        content: "";
+        display: block;
+        border-radius: 50%;
+        transform: translateY(-55px);
+        /* top: 0; */
+        /* left: -50px; */
+  }
+  .tierra_corazon::after {
+    /* top: -50px; */
+    transform:translateX(-55px) ;
+  }
+  @keyframes heart {
+      from {
+          transform: scale(1.2) rotate(45deg);
+      }
+      
+  }
+  
+  </style>
+  
+  <div class="Continente_americano" >
+  </div>
+  <img src="Continente_americano.png" style=" 
+  position:relative; 
+  margin-top: 455px;
+  left: 1150px;
+  height: 102;
+  z-index: 4;"
+  >
+  </div>  
+
+</div>
+
+
+
+<!-- BOLSA 1 -->
+<div class="bolsa_1" ></div>
+<style>
+
+ .bolsa_1{
+    box-sizing: border-box;
+    position: relative;
+    border: 1em solid rgb(87, 69, 20);
+    width: 108px;
+    height: 100px;
+    border-top-left-radius: 7em;
+    border-top-right-radius: 7em;
+    z-index: 1 ;
+    top: -540px;
+    left: 1440px;
+  }
+   .bolsa_1::before {
+    content:"";
+    position: absolute;
+    width: 10em;
+    height: 16em;
+    border-radius: 0em;
+    top: 4em;
+    box-sizing: border-box;
+    border: 2.5em solid rgb(39, 32, 109);
+    border-right-width: 7.5em;
+    border-left-width: 7.5em;
+    border-bottom-left-radius: 0em ;
+    border-bottom-right-radius: 0em;
+    z-index: 3;
+    left: -80;
+    }
+</style>
+
+
+<!-- BOLSA 2 -->
+<div class="bolsa_2_sencilla" ></div>
+<style>
+ .bolsa_2_sencilla{
+    box-sizing: border-box;
+    position: relative;
+    border: 1em solid rgb(87, 69, 12);
+    width: 108px;
+    height: 100px;
+    border-top-left-radius: 7em;
+    border-top-right-radius: 7em;
+    z-index: 1 ;
+    top: -600px;
+    left: 1550px;
+  }
+   .bolsa_2_sencilla::before {
+    content:"";
+    position: absolute;
+    width: 12em;
+    height: 16em;
+    border-radius: 0em;
+    top: 4em;
+    box-sizing: border-box;
+    border: 8.5em solid rgb(218, 189, 216);
+    border-right-width: 7.5em;
+    border-left-width: 8em;
+    border-bottom-left-radius: 0em ;
+    border-bottom-right-radius: 0em;
+    z-index: 3;
+    left: -86;
+    }
+
+</style>
+
+
+<!-- BOLSA 3 -->
+<div class="bolsa_3" ></div>
+<style>
+ .bolsa_3{
+    box-sizing: border-box;
+    position: relative;
+    border: 1em solid rgb(87, 69, 20);
+    width: 108px;
+    height: 100px;
+    border-top-left-radius: 7em;
+    border-top-right-radius: 7em;
+    z-index: 2 ;
+    top: -600px;
+    left: 1270px;
+  }
+   .bolsa_3::before {
+    content:"";
+    position: absolute;
+    width: 6em;
+    height: 10em;
+    border-radius: 2em;
+    top: 3em;
+    box-sizing: border-box;
+    border: 8.5em solid rgb(241, 206, 47);
+    border-right-width: 7.5em;
+    border-left-width: 8em;
+    border-bottom-width: 3.3em;
+    border-bottom-left-radius: 0em ;
+    border-bottom-right-radius: 0em;
+    z-index: 3;
+    left: -86;
+    }
+</style>
+
+<!-- BOLSA 4 -->
+<div class= bolsa_4_copleta>
+<div class="bolsa_4" ></div>
+<style>
+ .bolsa_4{
+    box-sizing: border-box;
+    position: relative;
+    border: 1em solid rgb(87, 69, 20);
+    width: 108px;
+    height: 100px;
+    border-top-left-radius: 7em;
+    border-top-right-radius: 7em;
+    z-index: 0 ;
+    top: -870px;
+    left: 1300px;
+  }
+   .bolsa_4::before {
+    content:"";
+    position: absolute;
+    width: 12em;
+    height: 16em;
+    border-radius: 0em;
+    top: 4em;
+    box-sizing: border-box;
+    border: 8.5em solid rgb(221, 221, 206);
+    border-right-width: 7.5em;
+    border-left-width: 8em;
+    border-bottom-left-radius: 0em ;
+    border-bottom-right-radius: 0em;
+    z-index: 3;
+    left: -86;
+    }
+</style>
+<div class= rectangulo_marca style="
+  position: relative;
+  width: 60px;
+  height: 60px;
+  top: -840px;
+  left: 1247px;
+  z-index: 1;
+  background: red;"></div>
+
+</div>
+
+
+
+<!-- ETIQUETA -->
+<div class= Etiqueta_consumo_local>
+  <div class= "etiqueta"></div> 
+  <style>
+    .etiqueta {
+      /* Rectángulo */
+    background: rgb(153, 145, 100);
+    border-top: 1px solid rgb(153, 145, 100);
+    display: inline-block;
+    height: 280px;
+    margin-left: 80px;
+    margin-top: 100px;
+    position: relative;
+    width: 210px;
+    transform: rotate(10deg);
+    top: -250px;
+    left: 300px;
+  }
+  .etiqueta::before {
+    border-bottom: 70px solid rgb(153,145,100);
+    border-left: 105px solid transparent;
+    border-right: 105px solid transparent;
+    content: "";
+    height: 0px;
+    left: 0;
+    position: absolute;
+    top: -70.5px;
+    width: 0;
+    
+  }
+  </style>
+
+  <!-- IMAGEN CONCATENADA MÉXICO & CORAZÓN -->
+  <div class="Nacional" >
+  </div>
+  <img src="mexico.png" style=" 
+  position:absolute; 
+  margin-top: -520px;
+  left: 392px;
+  height: 210px;
+  z-index: 4;
+  transform: rotate(15deg);"
+  >
+  </div>
+
+  <!-- IMAGEN CONCATENADA MADE IN MEXICO -->
+  <div class="Made_in_méxico" >
+  </div>
+  <img src="made_mexico.png" style=" 
+  position:absolute; 
+  margin-top: -345px;
+  left: 345px;
+  height: 125px;
+  z-index: 4;
+  transform: rotate(10deg);"
+  >
+  </div>
+
+  <!-- LAZO -->
+  <div class= 'lazo'>
+  </div>
+  <style>
+      .lazo{
+      position: absolute;
+      width: 230px;
+      height: 90px;
+      top: 700px;
+      left: 470px;
+      -moz-border-radius: 0 80% / 0 100%;
+      -webkit-border-radius: 0 80% / 0 100%;
+      border-radius: 0 60% / 0 100%;
+      border: 3px solid rgb(73, 53, 7);
+      transform: rotate(-76deg);
+      }
+  </style>
+
+<div class= 'cuadrado_tapa'>
+</div>
+<style>
+    .cuadrado_tapa{
+    position: absolute;
+    width: 45px;
+    height: 50px;
+    top: 830px;
+    left: 518px;
+    background: rgb(153,145,100);
+    transform: rotate(45deg);
+    }
+</style>
+  
+</div>
+
+<!-- TEXTOS -->
+<!-- <p>Aquí tenemos un párrafo más largo donde hacemos un salto de línea y<br /> 
+  continuamos el texto del párrafo debajo </p> -->
+
+
+<div class="costo8">LA MODA NO ES GRATIS <br />
+  Alguien en algún lugar esta pagando el precio.</div>
+
+<style>
+@import url(https://fonts.googleapis.com/css?family=Righteous);
+
+.costo8, .costo8:before, .costo8:after {
+
+box-sizing: border-box;
+position: absolute;
+top: 500px;
+left: 1200px;
+width: 500px;
+}
+
+html, body {
+height: 100px;
+}
+
+/* body:before {
+  content: '';
+  /* display: inline-block; */
+  /* vertical-align: middle; */
+  /* font-size: 30px;
+  height: 100px;
+  } */ 
+
+.costo8  {
+  display: inline-block;
+  text-align: right;
+color: rgb(209, 157, 216);
+font-family: 'Righteous', serif;
+font-size: 45px; 
+text-shadow: 1px 1px 0 hsla(240,40%,50%,1);
+}
+.costo8:after {
+  content: "LA MODA NO ES GRATIS";
+  position: absolute;
+  top: 4px; left: 4px;
+  z-index: -1;
+  text-shadow: none;
+  background-image:
+    linear-gradient(
+      45deg,
+      transparent 45%,
+      hsla(240,40%,50%,1) 45%,
+      hsla(240,40%,50%,1) 55%,
+      transparent 0
+      );
+  background-size: .09em .09em;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  animation: shad-anim 100s linear infinite;
+  }
+
+@keyframes shad-anim {
+0% {background-position: 0 0}
+0% {background-position: 100% -100%}
+}
+
+</style>
+
+
