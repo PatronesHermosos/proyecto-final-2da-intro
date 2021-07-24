@@ -3,6 +3,7 @@
 - Nombre de todos miembros en el equipo: Ana Ayala, Catalina Vega, Susana Camacho, Karla Villanueva
 - El título del proyecto: ¡Fin al fast fashion!
 - Actualizaciones de la lista de recursos y referencias que están usando para su proyecto final:
+      
       Pulaski: https://pulaski.mx
       Selvaggi: https://www.selvaggiswimwear.com
       Pau Román:https://pauroman.mx/collections/slow-mornings
@@ -26,6 +27,8 @@
       + Quedan pendientes las fotos para rellenar la camisa
     
 - ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega final y la presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!
+
+
       - Como animar el símbolo de reciclaje
       - Cambiar de CSS a JavaScript una animación de texto (Aún esta pendiente confirmar la fuente libre)
       
