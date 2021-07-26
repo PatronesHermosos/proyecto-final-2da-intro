@@ -1,9 +1,10 @@
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en el equipo:
-- El título del proyecto:
-- Actualizaciones de la lista de recursos y referencias que están usando para su proyecto final:
-- ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega final y la presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!
+- Número del equipo: 14
+- Nombre del equipo: sam programanding para tu <3
+- Nombre de todos miembros en el equipo: Montserrat Castillo, Sofia Alejandra Ampudia, Anyalexie Castillo
+- El título del proyecto: Desigualdad de género en la educación
+- Actualizaciones de la lista de recursos y referencias que están usando para su proyecto final: no utilizamos ninguna referencia nueva. 
+- ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recomendaciones para crear una animación que permita que salga el arcoíris, se mantenga por unos segundos y vuelva a desaparecer. El diseño de la página web.
+
 
 No se olviden de subir:
 
