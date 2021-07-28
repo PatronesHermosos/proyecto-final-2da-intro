@@ -3,7 +3,7 @@
 - Nombre de todos miembros en el equipo: Claudia Sánchez, Selene Gómez, Ana Pineda
 - El título del proyecto: El cambio climático
 - Actualizaciones de la lista de recursos y referencias que están usando para su proyecto final:
-- ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega final y la presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!
+- ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega final y la presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!  Hola! nos gustaría saber si la entrega es correcta? nos referimos a que si es posible para ustedes ver nuestro trabajo? gracias y saludos!
 
 No se olviden de subir:
 
