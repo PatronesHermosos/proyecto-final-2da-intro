@@ -1,7 +1,7 @@
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en el equipo:
-- El título del proyecto:
+- Número del equipo: 04
+- Nombre del equipo: BE the change
+- Nombre de todos miembros en el equipo: Claudia Sánchez, Selene Gómez, Ana Pineda
+- El título del proyecto: El cambio climático
 - Actualizaciones de la lista de recursos y referencias que están usando para su proyecto final:
 - ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega final y la presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!
 
