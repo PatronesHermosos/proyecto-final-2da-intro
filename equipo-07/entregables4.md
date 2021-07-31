@@ -4,9 +4,10 @@
 - Miranda Galván Medina 
 Grettel Dalaís Flores Perdomo
 Getsemani Cervantes Ojeda
-- El título del proyecto:
+- El título del proyecto:Ríos y Lagos cercanos a Comunidades
 - 
 - Actualizaciones de la lista de recursos y referencias que están usando para su proyecto final:
+- utilizamos las plantillas de bootstrap y emos empleado el codigo en html al igual que dstintas paginas de internet para adquirir informacion para complementar nuestra pagina de internet.
 - 
 - ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega final y la presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!
 - sobre el codigo que hemos realizado tanto para crear la pagina de internet como el codigo en HTML para crear las imagenes
