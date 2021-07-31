@@ -1,5 +1,5 @@
-- Número del equipo:
-- Nombre del equipo:
+- Número del equipo: 7
+- Nombre del equipo:Los pollitos
 - Nombre de todos miembros en el equipo:
 - El título del proyecto:
 - Actualizaciones de la lista de recursos y referencias que están usando para su proyecto final:
