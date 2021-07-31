@@ -16,6 +16,7 @@ No se olviden de subir:
 
 en su carpeta grupal en Github.
 file:///C:/Users/Natalia/Downloads/Proyecto_final_Unagotaalavez.html
+file:///C:/Users/Natalia/Downloads/tierraa%20(3).html
 ![image](https://user-images.githubusercontent.com/85130464/127726898-170e0859-3159-435b-a97b-f5bde65ae308.png)
 ![image](https://user-images.githubusercontent.com/85130464/127726904-605affc2-f020-402a-bd57-c05b95647852.png)
 ![image](https://user-images.githubusercontent.com/85130464/127726912-cd8e1bd5-ca6b-49f5-ba2c-d2fb6b25a325.png)
