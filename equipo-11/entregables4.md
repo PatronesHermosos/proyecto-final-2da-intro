@@ -1,5 +1,5 @@
 - Número del equipo: 11
-- Nombre del equipo: Slow-Fashioners
+- Nombre del equipo: Friendly-Fashioners
 - Nombre de todos miembros en el equipo: Ana Ayala, Catalina Vega, Susana Camacho, Karla Villanueva
 - El título del proyecto: ¡Fin al fast fashion!
 - Actualizaciones de la lista de recursos y referencias que están usando para su proyecto final:
