@@ -1,0 +1,75 @@
+<!--Camioneta black-->
+<div>
+  <div id="camioneta_black" style="
+   left: 1000px;
+   top: 5px;
+   position: absolute;">
+  <a class="camioneta">
+    <img
+    src="Camioneta.png"
+    alt="Camioneta black"
+    />
+  </a>
+   </div>
+</div>
+  <!--Movimiento camioneta black-->
+<!--<script>
+function camioneta_blackStart(){
+// se guarda una variable con todas las propiedades de la camioneta
+var time=3000;
+var velocity_camioneta=10;
+var position_camioneta= 800;
+var camioneta_black = document.getElementById('camioneta_black');
+// llamando setInterval para repetir una funcion
+setInterval(function(){
+  position_camioneta=position_camioneta + -1* velocity_camioneta;
+  camioneta_black.style.left=position_camioneta+"px"}
+  ,200);
+}
+setInterval(camioneta_blackStart,3000);
+</script>-->
+
+<script>
+//function camioneta_start() {//
+  // se guarda una variable con todas las propiedades de la camioneta
+var camioneta_black = document.getElementById('camioneta_black');
+
+// unidad de tiempo en millisegundos
+var unidad_tiempo_1 = 50;
+
+// con cada unidad de tiempo, ¿cuanta distancia va a viajar la camioneta?
+var distancia_camioneta = 10; // pixeles
+
+// la posicion de la camioneta
+var posicion_camioneta = 0;
+
+//var counter_camioneta=0;//
+
+// llamando setInterval para repetir una funcion
+setInterval(function(){
+    if (posicion_camioneta < 0, posicion_camioneta > 800) {
+        distancia_camioneta = (-1)*distancia_camioneta; // cambiar el signo de la distancia
+    }
+    if (posicion_camioneta >0 , posicion_camioneta < 800){
+    }
+    // dentro de la funcion, se usa la formula de distancia, velocidad y tiempo
+    posicion_camioneta = posicion_camioneta + distancia_camioneta; // actualizando la posicion de la camioneta
+    camioneta_black.style.left = posicion_camioneta + 'px'; // cambiando la propiedad de la camioneta
+},unidad_tiempo_1)
+//}//
+//setInterval (camioneta_start,1000)//
+</script>  -->
+
+/******CSS******/
+.camioneta img{
+    z-index: 1;
+    margin-left: auto;
+    margin-right:auto;
+    position:absolute;
+    overflow: hidden;
+    background-size: cover;
+    left: 170px;
+    top: 670px;
+    height: 130px;
+    width: 140px;
+}
