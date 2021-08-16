@@ -7,6 +7,7 @@
 - Se pretende comunicar en la obra que las personas  de cualquier edad tienen la capacidad de comunicarle a las demás personas los problemas a los que la humanidad se enfrenta con el fin de que se busquen y creen acciones concretas para mejorar la situación. Esto lo logramos por medio de un maestro mostrándole a un alumno la realidad de la contaminación en los mares; cómo es que este hace conciencia de ello al observarlo con sus propios ojos es el objetivo del maestro.
 
 - La lista de recursos y referencias que han usado:
+- The Ocean Cleanup (2 de junio del 2021). La empresa Coca-Cola se convierte en el primer socio de implementación global para ayudar a acelerar la limpieza. Recuperado de: https://theoceancleanup.com/updates/coca-cola-becomes-first-global-implementation-partner-to-help-accelerate-cleanup/
 - 
 - Graben un video de 5-min usando el modelo “Entrega 3 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://youtu.be/lEMnVuPYX_A
 - 
