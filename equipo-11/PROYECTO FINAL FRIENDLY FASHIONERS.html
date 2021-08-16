@@ -1,0 +1,1456 @@
+
+<body style="background:hsla(240,40%,50%,1);"></body>
+  
+<!-- CAMISA -->
+<div class="prenda"><img src="camisa.PNG" width= 1000px;></div>
+<style>
+.prenda {
+    left: 500px;
+    top: 0px;
+    position: absolute;
+}
+
+</style>
+
+<!-- PARCHE TIERRA -->
+<div class= "Parche_tierra">
+
+  <div class= "tierra_corazon"> 
+  </div>  
+  <style>
+      .tierra_corazon {
+          width: 100px;
+          height: 100px;
+          background: skyblue;
+          z-index: 3;
+          transform: rotate(45deg);
+          /* Para mover la pocisión antes top:30rem & left: 75rem */ 
+          top: 480px; 
+          left: 1200px;
+          animation: heart 2s infinite alternate ease;
+      }
+   /* Todos los estílos van a afectar al before & after  */
+  .tierra_corazon, .tierra_corazon::before, .tierra_corazon::after {
+          height: 100px;
+          width: 100px;
+          background: skyblue;
+          position: absolute;
+  
+  
+          /* z-index: 3; */
+      }
+      .tierra_corazon::before, .tierra_corazon::after {
+        content: "";
+        display: block;
+        border-radius: 50%;
+        transform: translateY(-55px);
+        /* top: 0; */
+        /* left: -50px; */
+  }
+  .tierra_corazon::after {
+    /* top: -50px; */
+    transform:translateX(-55px) ;
+  }
+  @keyframes heart {
+      from {
+          transform: scale(1.2) rotate(45deg);
+      }
+      
+  }
+  
+  </style>
+  
+  <div class="Continente_americano" >
+  </div>
+  <img src="Continente_americano.png" style=" 
+  position:relative; 
+  margin-top: 455px;
+  left: 1150px;
+  height: 102;
+  z-index: 4;"
+  >
+  </div>  
+
+</div>
+
+
+<div class= "bolsas">
+  <style>
+    .bolsas{
+      margin-left: 200px;
+    }
+  </style>
+<!-- BOLSA 1 -->
+<div class="bolsa_1" ></div>
+<style>
+
+ .bolsa_1{
+    box-sizing: border-box;
+    position: relative;
+    border: 1em solid rgb(87, 69, 20);
+    width: 108px;
+    height: 100px;
+    border-top-left-radius: 7em;
+    border-top-right-radius: 7em;
+    z-index: 1 ;
+    top: -540px;
+    left: 1440px;
+  }
+   .bolsa_1::before {
+    content:"";
+    position: absolute;
+    width: 10em;
+    height: 16em;
+    border-radius: 0em;
+    top: 4em;
+    box-sizing: border-box;
+    border: 2.5em solid rgb(39, 32, 109);
+    border-right-width: 7.5em;
+    border-left-width: 7.5em;
+    border-bottom-left-radius: 0em ;
+    border-bottom-right-radius: 0em;
+    z-index: 3;
+    left: -80;
+    }
+</style>
+
+
+<!-- BOLSA 2 -->
+<div class="bolsa_2_sencilla" ></div>
+<style>
+ .bolsa_2_sencilla{
+    box-sizing: border-box;
+    position: relative;
+    border: 1em solid rgb(87, 69, 12);
+    width: 108px;
+    height: 100px;
+    border-top-left-radius: 7em;
+    border-top-right-radius: 7em;
+    z-index: 1 ;
+    top: -600px;
+    left: 1550px;
+  }
+   .bolsa_2_sencilla::before {
+    content:"";
+    position: absolute;
+    width: 12em;
+    height: 16em;
+    border-radius: 0em;
+    top: 4em;
+    box-sizing: border-box;
+    border: 8.5em solid rgb(218, 189, 216);
+    border-right-width: 7.5em;
+    border-left-width: 8em;
+    border-bottom-left-radius: 0em ;
+    border-bottom-right-radius: 0em;
+    z-index: 3;
+    left: -86;
+    }
+
+</style>
+
+
+<!-- BOLSA 3 -->
+<div class="bolsa_3" ></div>
+<style>
+ .bolsa_3{
+    box-sizing: border-box;
+    position: relative;
+    border: 1em solid rgb(87, 69, 20);
+    width: 108px;
+    height: 100px;
+    border-top-left-radius: 7em;
+    border-top-right-radius: 7em;
+    z-index: 2 ;
+    top: -600px;
+    left: 1270px;
+  }
+   .bolsa_3::before {
+    content:"";
+    position: absolute;
+    width: 6em;
+    height: 10em;
+    border-radius: 2em;
+    top: 3em;
+    box-sizing: border-box;
+    border: 8.5em solid rgb(241, 206, 47);
+    border-right-width: 7.5em;
+    border-left-width: 8em;
+    border-bottom-width: 3.3em;
+    border-bottom-left-radius: 0em ;
+    border-bottom-right-radius: 0em;
+    z-index: 3;
+    left: -86;
+    }
+</style>
+
+<!-- BOLSA 4 -->
+<div class= bolsa_4_copleta>
+<div class="bolsa_4" ></div>
+<style>
+ .bolsa_4{
+    box-sizing: border-box;
+    position: relative;
+    border: 1em solid rgb(87, 69, 20);
+    width: 108px;
+    height: 100px;
+    border-top-left-radius: 7em;
+    border-top-right-radius: 7em;
+    z-index: 0 ;
+    top: -870px;
+    left: 1300px;
+  }
+   .bolsa_4::before {
+    content:"";
+    position: absolute;
+    width: 12em;
+    height: 16em;
+    border-radius: 0em;
+    top: 4em;
+    box-sizing: border-box;
+    border: 8.5em solid rgb(221, 221, 206);
+    border-right-width: 7.5em;
+    border-left-width: 8em;
+    border-bottom-left-radius: 0em ;
+    border-bottom-right-radius: 0em;
+    z-index: 3;
+    left: -86;
+    }
+</style>
+<div class= rectangulo_marca style="
+  position: relative;
+  width: 60px;
+  height: 60px;
+  top: -840px;
+  left: 1247px;
+  z-index: 1;
+  background: red;"></div>
+
+</div>
+</div>
+
+
+
+<!-- ETIQUETA -->
+<div class= "Etiqueta_consumo_local">
+
+  <div class= "etiqueta"></div> 
+  <style>
+    .etiqueta {
+      /* Rectángulo */
+    background: rgb(153, 145, 100);
+    border-top: 1px solid rgb(153, 145, 100);
+    display: inline-block;
+    height: 280px;
+    margin-left: 80px;
+    margin-top: 100px;
+    position: relative;
+    width: 210px;
+    transform: rotate(25deg);
+    top: -290px;
+    left: 300px;
+  }
+  .etiqueta::before {
+    border-bottom: 70px solid rgb(153,145,100);
+    border-left: 105px solid transparent;
+    border-right: 105px solid transparent;
+    content: "";
+    height: 0px;
+    left: 0;
+    position: absolute;
+    top: -70.5px;
+    width: 0;
+    
+  }
+  </style>
+
+  <!-- IMAGEN CONCATENADA MÉXICO & CORAZÓN -->
+  <div class="Nacional" >
+  </div>
+  <img src="mexico.png" style=" 
+  position:absolute; 
+  margin-top: -560px;
+  left: 397px;
+  height: 210px;
+  z-index: 4;
+  transform: rotate(25deg);"
+  >
+  </div>
+
+  <!-- IMAGEN CONCATENADA MADE IN MEXICO -->
+  <div class="Made_in_méxico" >
+  </div>
+  <img src="made_mexico.png" style=" 
+  position:absolute; 
+  margin-top: -385px;
+  left: 315px;
+  height: 125px;
+  z-index: 4;
+  transform: rotate(25deg);"
+  >
+  </div>
+
+  <!-- LAZO -->
+  <div class= 'lazo'>
+  </div>
+  <style>
+      .lazo{
+      position: absolute;
+      width: 180px;
+      height: 80px;
+      top: 730px;
+      left: 550px;
+      -moz-border-radius: 0 80% / 0 100%;
+      -webkit-border-radius: 0 80% / 0 100%;
+      border-radius: 0 60% / 0 100%;
+      border: 3px solid rgb(73, 53, 7);
+      transform: rotate(-50deg);
+      }
+  </style>
+
+  <div class= 'cuadrado_tapa'>
+  </div>
+  <style>
+      .cuadrado_tapa{
+      position: absolute;
+      width: 40px;
+      height: 45px;
+      top: 787px;
+      left: 540px;
+      background: rgb(153,145,100);
+      transform: rotate(80deg);
+      }
+  </style>
+  
+</div>
+
+<!-- TEXTOS -->
+<!-- <p>Aquí tenemos un párrafo más largo donde hacemos un salto de línea y<br /> 
+  continuamos el texto del párrafo debajo </p> -->
+
+
+<div class="costo8">LA MODA NO ES GRATIS <br />
+  Alguien en algún lugar esta pagando el precio.</div>
+
+<style>
+@import url(https://fonts.googleapis.com/css?family=Righteous);
+
+.costo8, .costo8:before, .costo8:after {
+
+box-sizing: border-box;
+position: absolute;
+top: 500px;
+left: 1450px;
+width: 500px;
+}
+
+html, body {
+height: 100px;
+}
+
+/* body:before {
+  content: '';
+  /* display: inline-block; */
+  /* vertical-align: middle; */
+  /* font-size: 30px;
+  height: 100px;
+  } */ 
+
+.costo8  {
+  display: inline-block;
+  text-align: right;
+color: rgb(209, 157, 216);
+font-family: 'Righteous', serif;
+font-size: 60px; 
+text-shadow: 1px 1px 0 rgb(246, 246, 246);
+}
+.costo8:after {
+  content: "LA MODA NO ES GRATIS";
+  position: absolute;
+  top: 4px; left: 4px;
+  z-index: -1;
+  text-shadow: none;
+  background-image:
+    linear-gradient(
+      45deg,
+      transparent 45%,
+      rgb(241, 241, 251) 45%,
+      rgb(241, 241, 251) 55%,
+      transparent 0
+      );
+  background-size: .09em .09em;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  animation: shad-anim 100s linear infinite;
+  }
+
+@keyframes shad-anim {
+0% {background-position: 0 0}
+0% {background-position: 100% -100%}
+}
+
+</style>
+
+
+
+<h1>¿Crees en las segundas <br> oportunidades? <br> <br> 
+  La ropa también la merece
+</h1>
+
+
+<style>
+@import url("https://fonts.googleapis.com/css?family=Sacramento&display=swap");
+
+h1 {
+font-size: calc(30px + 30px);
+line-height: calc(30px + 30px);
+/*   text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
+  0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092;
+color: #fccaff; */
+text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
+  color: #fff6a9;
+font-family: "Sacramento", cursive;
+text-align: left;
+animation: blink 12s infinite;
+-webkit-animation: blink 12s infinite;
+margin-top: -950px;
+}
+
+body {
+justify-content: right;
+align-items: right;
+
+height: 100vh;
+background: rgb(240, 235, 235);
+/* background-image: repeating-linear-gradient(
+  to bottom,
+  transparent 7px,
+  hsla(240,40%,50%,1) 9px,
+  hsla(240,40%,50%,1)13px,
+  transparent 13px
+); */
+}
+
+@-webkit-keyframes blink {
+20%,
+24%,
+55% {
+  color: rgb(248, 248, 248);
+  text-shadow: none;
+}
+
+0%,
+19%,
+21%,
+23%,
+25%,
+54%,
+56%,
+100% {
+/*     color: #fccaff;
+  text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
+    0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092; */
+text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 40px #ff0000, 0 0 10px #ff8d00, 0 0 70px #ff0000;
+  color: #fff6a9;
+}
+}
+
+@keyframes blink {
+20%,
+24%,
+55% {
+  color: rgb(248, 248, 248);
+  text-shadow: none;
+}
+
+0%,
+19%,
+21%,
+23%,
+25%,
+54%,
+56%,
+100% {
+/*     color: #fccaff;
+  text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
+    0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092; */
+text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 40px #ff0000, 0 0 10px #ff8d00, 0 0 70px #ff0000;
+  color: #fff6a9;
+}
+}
+</style>
+
+
+
+
+<h2><span>S</span><span>L</span><span>O</span><span>W</span> <span> </span> <span>F</span><span>A</span><span>S</span><span>H</span><span>I</span><span>O</span><span>N</span></h2>
+<style>
+@import url(https://fonts.googleapis.com/css?family=Signika:700,300,600);
+/* 
+html, body { height: 100%; } */
+/* body { display: flex; justify-content: center; align-items: center; margin:20px 0; text-align:center; background:beige; overflow:hidden; } */
+
+h2 {
+ font-size:100px;
+ font:bold 90px/7 'Signika', sans-serif;
+ user-select:none;
+ width: 850px;
+ height: 0px;
+ margin-top: -900px;
+ margin-left: 380px;
+ transform:rotate(-12deg);
+ /* height: 300px; */ 
+}
+
+h2 span { display:inline-block; animation:float .5s ease-in-out infinite; }
+ @keyframes float {
+  0%,100%{ transform:none; }
+  33%{ transform:translateY(-1px) rotate(-2deg); }
+  66%{ transform:translateY(1px) rotate(2deg); }
+}
+body:hover span { animation:bounce .10s; }
+@keyframes bounce {
+  0%,100%{ transform:translate(0); }
+  25%{ transform:rotateX(20deg) translateY(2px) rotate(-3deg); }
+  50%{ transform:translateY(-20px) rotate(3deg) scale(1.1);  }
+}
+
+span:nth-child(4n) { color:hsl(50, 75%, 55%); text-shadow:1px 1px hsl(50, 75%, 45%), 2px 2px hsl(50, 45%, 45%), 3px 3px hsl(50, 45%, 45%), 4px 4px hsl(50, 75%, 45%); }
+span:nth-child(4n-1) { color:hsl(135, 35%, 55%); text-shadow:1px 1px hsl(135, 35%, 45%), 2px 2px hsl(135, 35%, 45%), 3px 3px hsl(135, 35%, 45%), 4px 4px hsl(135, 35%, 45%); }
+span:nth-child(4n-2) { color:hsl(155, 35%, 60%); text-shadow:1px 1px hsl(155, 25%, 50%), 2px 2px hsl(155, 25%, 50%), 3px 3px hsl(155, 25%, 50%), 4px 4px hsl(140, 25%, 50%); }
+span:nth-child(4n-3) { color:hsl(30, 65%, 60%); text-shadow:1px 1px hsl(30, 45%, 50%), 2px 2px hsl(30, 45%, 50%), 3px 3px hsl(30, 45%, 50%), 4px 4px hsl(30, 45%, 50%); }
+
+h1 span:nth-child(2){ animation-delay:.05s; }
+h1 span:nth-child(3){ animation-delay:.1s; }
+h1 span:nth-child(4){ animation-delay:.15s; }
+h1 span:nth-child(5){ animation-delay:.2s; }
+h1 span:nth-child(6){ animation-delay:.25s; }
+h1 span:nth-child(7){ animation-delay:.3s; }
+h1 span:nth-child(8){ animation-delay:.35s; }
+h1 span:nth-child(9){ animation-delay:.4s; }
+h1 span:nth-child(10){ animation-delay:.45s; }
+h1 span:nth-child(11){ animation-delay:.5s; }
+h1 span:nth-child(12){ animation-delay:.55s; }
+h1 span:nth-child(13){ animation-delay:.6s; }
+h1 span:nth-child(14){ animation-delay:.65s; }
+
+</style>
+
+
+
+<!-- CATALINA -->
+<div id= "Materiales_Sustentables" style="
+    position:absolute;
+    left:80px;
+    top:80px">   
+<!--Círculo azul materiales--><div style="
+z-index:5;
+position:absolute;
+left:50px;
+top:70px;
+width: 250px;
+height: 250px;
+border-radius:50%;
+background: lightblue">
+</div>
+<!--cuadro texto--><div style="
+z-index:5;
+position:absolute;
+left:145px;
+top:65px;
+width: 1px;
+height: 1px;
+background:lightblue"><p>Materiales</p></div>
+<!--cuadro texto 2--><div style="
+z-index:5;
+position:absolute;
+left:138px;
+top:80px;
+width: 1px;
+height: 1px;
+background:lightblue"><p>Sustentables</p></div>
+<!--Bambú grande--><div style="
+z-index:5;
+position:absolute;
+left:120px;
+top:125px;
+width: 15px;
+height: 90px;
+transform: rotate(10deg);
+background:#40bf40"></div>
+<!--línea verde 1 bambú grande--><div style="
+z-index:5;
+position:absolute;
+left:127.5px;
+top:125px;
+width: 15px;
+height: 3px;
+transform: rotate(10deg);
+background:darkgreen"
+></div>
+<!--línea verde 2 bambú grande--><div style="
+z-index:5;
+position:absolute;
+left:122.5px;
+top:155px;
+width: 15px;
+height: 3px;
+transform: rotate(10deg);
+background:darkgreen"
+></div>
+<!--línea verde 3 bambú grande--><div style="
+z-index:5;
+position:absolute;
+left:117px;
+top:187px;
+width: 15px;
+height: 3px;
+transform: rotate(10deg);
+background:darkgreen"
+></div>
+<!--línea verde 4 bambú grande--><div style="
+z-index:5;
+position:absolute;
+left:112px;
+top:215px;
+width: 15px;
+height: 3px;
+transform: rotate(10deg);
+background:darkgreen"></div>
+<!--hoja arriba bambú grande--><div style="
+z-index:5;
+position:absolute;
+left:135px;
+top:145px;
+width: 20px;
+height: 8px;
+border-radius:100px / 50px;
+transform: rotate(135deg);
+background: darkgreen">
+</div>
+<!--hoja 2 bambú grande--><div style="
+z-index:5;
+position:absolute;
+left:99.5px;
+top:190px;
+width: 20px;
+height: 8px;
+border-radius:100px / 50px;
+transform: rotate(50deg);
+background: darkgreen"></div>
+<!--bambú pequeño--><div style="
+z-index:5;
+position:absolute;
+left:85px;
+top:155px;
+width: 15px;
+height: 60px;
+transform: rotate(10deg);
+background:#40bf40"
+></div>
+<!--línea verde 1 bambú pequeño--><div style="
+z-index:5;
+position:absolute;
+left:88.5px;
+top:155px;
+width: 15px;
+height: 3px;
+transform: rotate(10deg);
+background:darkgreen"></div>
+<!--cuadro texto lino--><div style="
+z-index:5;
+position:absolute;
+left:112px;
+top:210px;
+width: 1px;
+height: 1px;
+transform: rotate(277deg);
+background:lightblue"><p>Bambú</p></div>
+<!--línea verde 2 bambú pequeño--><div style="
+z-index:5;
+position:absolute;
+left:84px;
+top:184px;
+width: 15px;
+height: 3px;
+transform: rotate(10deg);
+background:darkgreen"></div>
+<!--línea verde 3 bambú pequeño--><div style="
+z-index:5;
+position:absolute;
+left:80px;
+top:211px;
+width: 15px;
+height: 3px;
+transform: rotate(10deg);
+background:darkgreen"></div>
+<!--hoja bambú pequeño--><div style="
+z-index:5;
+position:absolute;
+left:72px;
+top:158px;
+width: 20px;
+height: 8px;
+border-radius:100px / 50px;
+transform: rotate(45deg);
+background: darkgreen"></div>
+<!--ALGODÓN círculo arriba izquierda--><div style="
+z-index:5;
+position:absolute;
+left:193px;
+top:191px;
+width: 52px;
+height: 52px;
+border-radius:50%;
+background: floralwhite"></div>
+<!--ALGODÓN círculo abajo izq--><div style="
+z-index:5;
+position:absolute;
+left:177px;
+top:218px;
+width: 50px;
+height: 50px;
+border-radius:50%;
+background: floralwhite"></div>
+<!--ALGODÓN círculo abajo derecha--><div style="
+z-index:5;
+position:absolute;
+left:230px;
+top:220px;
+width: 50px;
+height: 50px;
+border-radius:50%;
+background: floralwhite"></div>
+<!--ALGODÓN círculo arriba derecha--><div style="
+z-index:5;
+position:absolute;
+left:215px;
+top:191px;
+width: 52px;
+height: 52px;
+border-radius:50%;
+background: floralwhite"></div>
+<div style="
+z-index:5;
+position:absolute;
+left:185px;
+top:253px;
+width: 45px;
+height: 15px;
+border-radius:100px / 50px;
+transform: rotate(5deg);
+background: green"></div>
+<div style="
+z-index:5;
+position:absolute;
+left:190px;
+top:240px;
+width: 45px;
+height: 15px;
+border-radius:100px / 50px;
+transform: rotate(40deg);
+background: green"></div>
+<div style="
+z-index:5;
+position:absolute;
+left:220px;
+top:240px;
+width: 45px;
+height: 15px;
+border-radius:100px / 50px;
+transform: rotate(130deg);
+background: green">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:225px;
+top:253px;
+width: 45px;
+height: 17px;
+border-radius:100px / 50px;
+transform: rotate(175deg);
+background: green"></div>
+<div style="
+z-index:5;
+position:absolute;
+left:202px;
+top:237px;
+width: 50px;
+height: 17px;
+border-radius:100px / 50px;
+transform: rotate(90deg);
+background: green"></div>
+<!--ALGODÓN palito--><div style="
+z-index:5;
+position:absolute;
+left:212px;
+top:265px;
+width: 30px;
+height: 10px;
+border-radius:100px / 50px;
+transform: rotate(90deg);
+background: green"></div>
+<!--cuadro texto algodón--><div style="
+z-index:5;
+position:absolute;
+left:195px;
+top:270px;
+width: 1px;
+height: 1px;
+transform: rotate(350deg);
+background:lightblue"><p>Algodón</p></div>
+<!--Carrizo--><div style="
+z-index:5;
+position:absolute;
+left:110px;
+top:236px;
+width: 48px;
+height: 60px;
+transform: rotate(355deg);
+background:#CD853F"></div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:108px;
+top:231px;
+width: 47px;
+height: 16px;
+border-radius:100px / 50px;
+transform: rotate(355deg);
+background:#CD853F"></div>
+<div style="
+z-index:5;
+position:absolute;
+left:111px;
+top:283.5px;
+width: 50px;
+height: 16px;
+border-radius:100px / 50px;
+transform: rotate(355deg);
+background:#CD853F"
+>
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:98px;
+top:290px;
+width: 20px;
+height: 5px;
+transform: rotate(10deg);
+background:#CD853F"
+>
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:108px;
+top:245px;
+width: 48px;
+height: 3px;
+transform: rotate(10deg);
+background:#F5DEB3"
+>
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:108px;
+top:257px;
+width: 48px;
+height: 3px;
+transform: rotate(345deg);
+background:#F5DEB3"
+>
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:110px;
+top:269px;
+width: 48px;
+height: 3px;
+transform: rotate(10deg);
+background:#F5DEB3"
+>
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:111px;
+top:281px;
+width: 48px;
+height: 3px;
+transform: rotate(345deg);
+background:#F5DEB3"
+></div>
+<div style="
+z-index:5;
+position:absolute;
+left:108px;
+top:238px;
+width: 48px;
+height: 3px;
+transform: rotate(355deg);
+background:#F5DEB3"
+></div>
+<div style="
+z-index:5;
+position:absolute;
+left:112px;
+top:287px;
+width: 48px;
+height: 3px;
+transform: rotate(355deg);
+background:#F5DEB3"
+></div>
+<!--cuadro texto cáñamo--><div style="
+z-index:5;
+position:absolute;
+left:80px;
+top:285px;
+width: 1px;
+height: 1px;
+transform: rotate(262deg);
+background:lightblue"><p>Cáñamo</p></div>
+<!--lino coral--><div style="
+z-index:5;
+position:absolute;
+left:165px;
+top:125px;
+width:70px;
+height: 50px;
+transform: rotate(355deg);
+background:#FF7F50"
+></div>
+<!--cuadro texto lino--><div style="
+z-index:5;
+position:absolute;
+left:180px;
+top:160px;
+width: 1px;
+height: 1px;
+transform: rotate(353deg);
+background:lightblue"><p>Lino</p></div>
+<div style="
+z-index:5;
+position:absolute;
+left:165px;
+top:135px;
+width:70px;
+height: 2px;
+transform: rotate(355deg);
+background:#E9967A"
+></div>
+<div style="
+z-index:6;
+position:absolute;
+left:165px;
+top:125px;
+width:70px;
+height: 50px;
+transform: rotate(355deg);
+background:#FF7F50"
+>
+</div>
+<div style="
+z-index:6;
+position:absolute;
+left:165px;
+top:135px;
+width:70px;
+height: 2px;
+transform: rotate(355deg);
+background:#E9967A"
+>
+</div>
+<div style="
+z-index:6;
+position:absolute;
+left:165px;
+top:145px;
+width:70px;
+height: 2px;
+transform: rotate(355deg);
+background:#E9967A"
+>
+</div>
+<div style="
+z-index:6;
+position:absolute;
+left:165px;
+top:155px;
+width:70px;
+height: 2px;
+transform: rotate(355deg);
+background:#E9967A"
+></div>
+<div style="
+z-index:6;
+position:absolute;
+left:165px;
+top:165px;
+width:70px;
+height: 2px;
+transform: rotate(355deg);
+background:#E9967A"
+></div>
+<div style="
+z-index:5;
+position:absolute;
+left:190px;
+top:120px;
+width:70px;
+height: 50px;
+transform: rotate(355deg);
+background:#22c3bb"></div>
+</div>
+
+<!---Flor Marcas--> 
+<div id="Flor_Marcas" style="
+position:absolute;
+left: 1000px;
+top:400px">  
+    <!--CENTRO FLOR MARCAS GRANDE--><div style="
+z-index:6;
+position:absolute;
+left:800px;
+top: 435px;
+width: 50px;
+height: 50px;
+border-radius:50%;
+background: PaleGoldenRod"><p>Marcas</p></div> 
+<!--Pétalo 1 (arriba)--><div style="
+    display: block;
+    width: 50.4px;
+    height: 90px;
+    background-color:Thistle;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    z-index:5;
+    position:absolute;
+    left:800px;
+    top:360"></div>
+    <!--circulo Pétalo 1 (arriba)--><div style="
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-color: Thistle;
+    border-radius: 50%;
+    z-index:6;
+    position:absolute;
+    left:820px;
+    top:390px"><a href=https://pulaski.mx>1</a></div>
+   <!--Pétalo 2 (en medio a la derecha)--> <div style="
+    display: block;
+    width: 50.4px;
+    height: 90px;
+    background-color:Thistle;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    z-index:5;
+    position:absolute;
+    left:850px;
+    top:405;
+    transform: rotate(80deg)"></div>
+    <!--circulo Pétalo 2 (en medio a la derecha)--> <div style="
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-color:Thistle;
+    border-radius: 50%;
+    z-index:5;
+    position:absolute;
+    left:870px;
+    top:445;
+    transform: rotate(80deg)"><a href=https://www.selvaggiswimwear.com>2</a></div>
+     <!--Pétalo 3 (en medio a la izq)--><div style="
+    display: block;
+    width: 50.4px;
+    height: 90px;
+    background-color:Thistle;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    z-index:5;
+    position:absolute;
+    left:750px;
+    top:405;
+    transform: rotate(280deg)"></div>
+    <!--Circulo Pétalo 3 (en medio a la izq)--><div style="
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-color:Thistle;
+    border-radius: 50%;
+    z-index:6;
+    position:absolute;
+    left:760px;
+    top:430;
+    transform: rotate(280deg)"><a href=https://pauroman.mx/collections/slow-mornings>5</a></div>
+     <!--Pétalo 4 (abajo a la izq)--><div style="
+     display: block;
+     width: 50.4px;
+     height: 90px;
+     background-color:Thistle;
+     border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+     z-index:5;
+     position:absolute;
+     left:765px;
+     top:460;
+     transform: rotate(220deg)"></div>
+     <!--Circulo Pétalo 4 (abajo a la izq)--><div style="
+     display: block;
+     width: 20px;
+     height: 20px;
+     background-color:Thistle;
+     border-radius: 50%;
+     z-index:5;
+     position:absolute;
+     left:770px;
+     top:495;
+     transform: rotate(220deg)"><a href=https://www.instagram.com/origostudiomx/?hl=es-la>4</a></div>
+     <!--Pétalo 5 (abajo a la derecha)--><div style="
+     display: block;
+     width: 50.4px;
+     height: 90px;
+     background-color:Thistle;
+     border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+     z-index:5;
+     position:absolute;
+     left:835px;
+     top:460;
+     transform: rotate(140deg)"></div>
+     <!--Circulo Pétalo 5 (abajo a la derecha)--><div style="
+     display: block;
+     width: 20px;
+     height: 20px;
+     background-color:Thistle;
+     border-radius: 50%;
+     z-index:6;
+     position:absolute;
+     left:845px;
+     top:500;
+     transform: rotate(140deg)"><a href=https://collectivaconcepcion.com.mx>3</a></div>
+<!--CENTRO FLOR MARCAS PEQUEÑA--><div style="
+z-index:6;
+position:absolute;
+left:680px;
+top: 500px;
+width: 30px;
+height: 30px;
+border-radius:50%;
+background: PaleGoldenRod"></div>
+<!--pétalo 1 flor pequeña (arriba)--><div style="
+display: block;
+width: 30.24px;
+height: 54px;
+background-color:Thistle;
+border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+z-index:5;
+position:absolute;
+left:680px;
+top:456"></div>
+<!--circulo pétalo 1 flor pequeña (arriba)--><div style="
+display: block;
+width: 20px;
+height: 20px;
+background-color:Thistle;
+border-radius: 50%;
+z-index:6;
+position:absolute;
+left:690px;
+top:470"><a href= https://amorandrosas.com.mx>6</a></div>
+<!--pétalo 2 flor pequeña (arriba a la derecha)--><div style="
+display: block;
+width: 30.24px;
+height: 54px;
+background-color:Thistle;
+border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+z-index:5;
+position:absolute;
+left:715px;
+transform: rotate(80deg);
+top:480"></div>
+<!--circulo pétalo 2 flor pequeña (arriba a la derecha)--><div style="
+display: block;
+width: 20px;
+height: 20px;
+background-color:Thistle;
+border-radius: 50%;
+z-index:6;
+position:absolute;
+left:720px;
+transform: rotate(80deg);
+top:501"><a href=https://www.onioriginal.com>7</a></div>
+<!--pétalo 3 flor pequeña (arriba a la izq)--><div style="
+display: block;
+width: 30.24px;
+height: 54px;
+background-color:Thistle;
+border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+z-index:5;
+position:absolute;
+left:645px;
+transform: rotate(280deg);
+top:480"></div>
+<!--circulo pétalo 3 flor pequeña (arriba a la izq)--><div style="
+display: block;
+width: 20px;
+height: 20px;
+background-color:Thistle;
+border-radius: 50%;
+z-index:6;
+position:absolute;
+left:650px;
+transform: rotate(280deg);
+top:496"><a href= https://www.bamboo-life.com>10</a></div>
+<!--pétalo 4 flor pequeña (abajo a la izq)--><div style="
+display: block;
+width: 30.24px;
+height: 54px;
+background-color:Thistle;
+border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+z-index:5;
+position:absolute;
+left:660px;
+top:515;
+transform: rotate(220deg)"></div>
+<!--circulo pétalo 4 flor pequeña (abajo a la izq)--><div style="
+display: block;
+width: 20px;
+height: 20px;
+background-color:Thistle;
+border-radius: 50%;
+z-index:6;
+position:absolute;
+left:660px;
+top:530;
+transform: rotate(220deg)"><a href=https://www.hemlock.mx>9</a></div>
+<!--pétalo 5 flor pequeña (abajo a la derecha)--><div style="
+display: block;
+width: 30.24px;
+height: 54px;
+background-color:Thistle;
+border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+z-index:5;
+position:absolute;
+left:700px;
+top:515;
+transform: rotate(140deg)"></div>
+<!--circulo pétalo 5 flor pequeña (abajo a la derecha)--><div style="
+display: block;
+width: 20px;
+height: 20px;
+background-color:Thistle;
+border-radius: 50%;
+z-index:6;
+position:absolute;
+left:704px;
+top:536;
+transform: rotate(140deg)"><a href=https://caralarga.com.mx>8</a></div>
+</div>
+
+
+
+<!--PARCHE REPARA-->
+<div id="ParcheRepara" style="
+position:absolute;
+left:50px;
+top:200px"> 
+<!--cuadrado azul parche--><div style="
+    z-index:5;
+    position:absolute;
+    left:600px;
+    top:250px;
+    width: 60px;
+    height: 60px;
+    transform: rotate(10deg);
+    background:lightskyblue"></div>
+    <!--Opción cuadrado para poner texto--><div style="
+    z-index:5;
+    position:absolute;
+    left:592px;
+    top:305px;
+    width: 60px;
+    height: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(240, 235, 235);
+    transform: rotate(10deg)
+    "
+    ><p>REPARA</p></div>
+    <!--línea verde 1--><div style="
+    z-index:5;
+    position:absolute;
+    left:598px;
+    top:255px;
+    width: 12px;
+    height: 3px;
+    transform: rotate(10deg);
+    background:green"
+    ></div>
+    <!--línea verde 2--><div style="
+    z-index:5;
+    position:absolute;
+    left:595px;
+    top:275px;
+    width: 12px;
+    height: 3px;
+    transform: rotate(10deg);
+    background:green"
+    ></div>
+    <!--línea verde 3--><div style="
+    z-index:5;
+    position:absolute;
+    left:592px;
+    top:294px;
+    width: 12px;
+    height: 3px;
+    transform: rotate(10deg);
+    background:green"
+    ></div>
+    <!--línea verde 4--><div style="
+    z-index:5;
+    position:absolute;
+    left:648px;
+    top:304px;
+    width: 12px;
+    height: 3px;
+    transform: rotate(10deg);
+    background:green"
+    ></div>
+    <!--línea verde 5--><div style="
+    z-index:5;
+    position:absolute;
+    left:652px;
+    top:285px;
+    width: 12px;
+    height: 3px;
+    transform: rotate(10deg);
+    background:green"
+    ></div>
+    <!--línea verde 6--><div style="
+    z-index:5;
+    position:absolute;
+    left:656px;
+    top:265px;
+    width: 12px;
+    height: 3px;
+    transform: rotate(10deg);
+    background:green"
+    ></div>
+    <!--línea verde 7--><div style="
+    z-index:5;
+    position:absolute;
+    left:647px;
+    top:252px;
+    width: 12px;
+    height: 3px;
+    transform: rotate(100deg);
+    background:green"
+    ></div>
+    <!--línea verde 8--><div style="
+    z-index:5;
+    position:absolute;
+    left: 631px;
+    top: 249px;
+    width: 12px;
+    height: 3px;
+    transform: rotate(100deg);
+    background:green"
+    ></div>
+    <!--línea verde 9--><div style="
+    z-index:5;
+    position:absolute;
+    left:613px;
+    top:246px;
+    width: 12px;
+    height: 3px;
+    transform: rotate(100deg);
+    background:green"
+    ></div>
+    <!--línea verde 10--><div style="
+    z-index:5;
+    position:absolute;
+    left:603px;
+    top:304px;
+    width: 12px;
+    height: 3px;
+    transform: rotate(100deg);
+    background:green"
+    ></div>
+    <!--línea verde 11--><div style="
+    z-index:5;
+    position:absolute;
+    left:619px;
+    top:307px;
+    width: 12px;
+    height: 3px;
+    transform: rotate(100deg);
+    background:green"
+    ></div>
+    <!--línea verde 12--><div style="
+    z-index:5;
+    position:absolute;
+    left:635px;
+    top:309px;
+    width: 12px;
+    height: 3px;
+    transform: rotate(100deg);
+    background:green"
+    ></div>    
+</div>
+
+
+
+
+<!-- ANIMACIÓN CATALINA -->
+<script>
+
+var MaterialesSustentables= document.getElementById("Materiales_Sustentables");
+var tiempo= 100;
+var distancia= 4; 
+var posicion= 25;
+setInterval(function(){
+    if(posicion>50||posicion<0) {distancia=(-1)*distancia;} 
+    posicion=posicion+distancia;
+    MaterialesSustentables.style.top=posicion + "px";
+},tiempo)
+
+var Flor_Marcas= document.getElementById("Flor_Marcas");
+var tiempo_flor= 100;
+var distancia_flor= 5; 
+var posicion_flor= 600;
+setInterval(function(){
+    if(posicion_flor>700||posicion_flor<550) {distancia_flor=(-1)*distancia_flor;} 
+    posicion_flor=posicion_flor+distancia_flor;
+   Flor_Marcas.style.left=posicion_flor + "px";
+},tiempo_flor)
+
+</script>
+
+
+<!-- LOGO CON ANIMACIÓN FINALMENTE :) -->
+<div id="reciclaje">
+  <img src="logo reciclaje.png" width="700px" ; class="girar">
+</div>
+
+<!-- <div id= "reciclaje" >
+  <img src= "logo reciclaje.png" width= 100px; class="girar"/>
+  </div> -->
+  
+  <style>
+    .girar {
+    margin-left: 645px;
+    margin-top: 550px;
+    animation: rotation 8s infinite linear; 
+    }
+    @keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(359deg);
+    }
+    }
+  </style>
+  
