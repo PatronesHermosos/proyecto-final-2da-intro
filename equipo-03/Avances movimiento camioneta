@@ -1,3 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Styles.css"> 
+    <title>Transporte Sustentable</title>
+  
+</head> 
+<body>
+  <script scr="Functions.js"></script>
+    <header class="header">
+    <h1>Transporte Sustentable</h1>
+
+<!--Ciudad urbana-->
+<div>
+    <a class="ciudad">
+        <img
+          src="Ciudad urbana.png"
+          alt="ciudad futurista"
+        />
+      </a>
+
+<!--Nubes-->
+<div>
+  <a class="clouds">
+      <img
+        src="Clouds-white.png" width="330" height="170"
+        alt="Nubes"
+      />
+    </a>
+</div>
+<div>
+  <a class="clouds01">
+      <img
+        src="Clouds-white.png" width="330" height="170"
+        alt="Nubes"
+      />
+    </a>
+</div>
+<div>
+  <a class="clouds02">
+      <img
+        src="Clouds-white.png" width="330" height="170"
+        alt="Nubes"
+      />
+    </a>
+</div>
+<div>
+  <a class="clouds03">
+      <img
+        src="Clouds-white.png" width="330" height="170"
+        alt="Nubes"
+      />
+    </a>
+</div>
+<div>
+  <a class="clouds04">
+      <img
+        src="Clouds-white.png" width="330" height="170"
+        alt="Nubes"
+      />
+    </a>
+</div>
+
+<!--ciclovia-->
+<body>
+<div >
+   <a class="ciclovia">
+     <!--lineas ciclovia-->
+     <div class="linea"></div> 
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+     <div class="linea"></div>
+   </a>
+</div>
+</body> 
+<!--Carril-->
+<body>
+  <div >
+     <a class="carril">
+       <!--señal carril-->
+       <div class="señal"></div> 
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+       <div class="señal"></div>
+
+      </a>
+    </div>
+    </body> 
+
+<!--Señal vial-->
+<div id="Carril" style="
+z-index:0;
+position:absolute;
+left:8px;
+top:735px;
+width: 1300px;
+height: 8px;
+border-radius:0%;
+background: rgb(86, 86, 104)">
+</div> 
+<div id="Carril" style="
+z-index:0;
+position:absolute;
+left:8px;
+top:800px;
+width: 1300px;
+height: 15px;
+border-radius:0%;
+background: rgb(86, 86, 104)">
+</div>     
+
+<!--Transporte sustentable-->
+<div id="autobus_sustentable" style="
+   left: 0px;
+   top: 5px;
+   position: absolute;">
+
+<!--Base y soporte del transporte-->
+<body>
+  <div class="base transporte">
+</div>
+<div class="soporte-base"></div>
+<!--sombra de la base-->
+<body>
+  <div class="base-sombra"></div>
+     <div class="base-sombra01"></div>
+       <div class="base-top"></div>
+</body>
+<!--Ventanas base-->
+<div class="ventanas-base"></div>
+<div class="ventanas-base01"></div>
+<div class="ventanas-base02"></div>
+<div class="ventanas-base03"></div>
+<div class="ventanas-base04"></div>
+<div class="ventanas-base05"></div>
+<div class="ventanas-base06"></div>
+<div class="ventanas-base07"></div>
+<div class="ventanas-base08"></div>
+<div class="ventanas-base09"></div>
+<div class="ventanas-base10"></div>
+<!--Sombra ventanas-->
+<div class="sombra-ventana"></div>
+<div class="sombra-ventana01"></div>
+<div class="sombra-ventana02"></div>
+<div class="sombra-ventana03"></div>
+<div class="sombra-ventana04"></div>
+<div class="sombra-ventana05"></div>
+<div class="sombra-ventana06"></div>
+<div class="sombra-ventana07"></div>
+<div class="sombra-ventana08"></div>
+<div class="sombra-ventana09"></div>
+<div class="sombra-ventana10"></div>
+<div class="sombra-ventana11"></div>
+<div class="sombra-ventana12"></div>
+<div class="sombra-ventana13"></div>
+<div class="sombra-ventana14"></div>
+<div class="sombra-ventana15"></div>
+<div class="sombra-ventana16"></div>
+<div class="sombra-ventana17"></div>
+<div class="sombra-ventana18"></div>
+<!--Puerta transporte-->
+<div class="puerta01"></div>
+<div class="puerta02"></div>
+<div class="sombra-puerta"></div>
+<div class="sombra-puerta01"></div>
+<div class="sombra-puerta02"></div>
+<div class="sombra-puerta03"></div>
+<!--Frente transporte-->
+<body>
+  <div class="frente transporte"></div>
+     <div class="sombra-frente"></div>
+       <div class="sombra-frente01"></div>
+</body>
+<!--Ventana del frente-->
+<body>
+  <div class="ventana-frente"></div>
+</body>
+<!--Ruedas del transporte-->
+<!--rueda izquierda-->
+<body>
+  <div class="rueda-left"></div>
+  <div class="rueda-left-shade"></div>
+  <div class="rueda-left-shade01"></div>
+</body>
+<body>
+  <div class="base rueda-left"></div>
+</body> 
+<body>
+  <div class="rueda-left01"></div>
+  <div class="rueda-left02"></div>
+  <div class="rueda-left-design"></div>
+  <div class="rueda-left-design01"></div>
+</body>
+<!--Rueda derecha-->
+<body>
+  <div class="rueda-right"></div>
+  <div class="rueda-right-shade"></div>
+  <div class="rueda-right-shade01"></div>
+</body>
+<body>
+  <div class="base rueda-right"></div>
+</body> 
+<body>
+  <div class="rueda-right01"></div>
+  <div class="rueda-right02"></div>
+  <div class="rueda-right-design"></div>
+  <div class="rueda-right-design01"></div>
+</body>
+</div>
+
+<!--street sidewalk-->
+<body>
+  <div class="sidewalk"> 
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+    <div class="lineas_sidewalk"></div>
+  </a>
+</body>
+
+
+
+
+<!--Movimientos de elementos-->
+
+    <!--Movimiento de autobus-->
+    <script>
+      // se guarda una variable con todas las propiedades del auobus
+      var autobus_sustentable= document.getElementById('autobus_sustentable');
+  
+  // unidad de tiempo en millisegundos
+  var unidad_tiempo_1 = 100;
+  
+  // con cada unidad de tiempo, ¿cuanta distancia va a viajar el autobus?
+  var distancia_autobus = 5; // pixeles
+  
+  // la posicion del autobus
+  var posicion_autobus = 0;
+  
+  // llamando setInterval para repetir una funcion
+  setInterval(function(){
+     if (posicion_autobus < 0 || posicion_autobus > 2100) {
+         // cambiar el signo de la distancia
+         distancia_autobus = (-1)*distancia_autobus; 
+     }
+     // dentro de la funcion, se usa la formula de distancia, velocidad y tiempo
+     posicion_autobus = posicion_autobus + distancia_autobus; // actualizando la posicion del autobus
+     autobus_sustentable.style.left = posicion_autobus + 'px'; // cambiando la propiedad del autobus 
+  },unidad_tiempo_1)
+     </script>   
+
+
+<!--Automoviles en carril -->
+   <!--auto green-->
+<div>
+  <div id="auto_green" style="
+   left: -1200px;
+   top: 5px;
+   position: absolute;">
+  <a class="auto">
+      <img
+        src="Automovil01.png"
+        alt="Auto green"
+      />
+    </a>
+  </div>
+</div>
+   <!--Movimiento de auto green-->
+   <script>
+    // se guarda una variable con todas las propiedades de la camioneta
+    var auto_green= document.getElementById('auto_green');
+
+// unidad de tiempo en millisegundos
+var unidad_tiempo_1 = 100;
+
+// con cada unidad de tiempo, ¿cuanta distancia va a viajar el auto?
+var distancia_auto = 5; // pixeles
+
+// la posicion del auto
+var posicion_auto = 0;
+
+// llamando setInterval para repetir una funcion
+setInterval(function(){
+   if (posicion_auto < 0 || posicion_auto > 2700) {
+       // cambiar el signo de la distancia
+       distancia_auto = (-1)*distancia_auto; 
+   }
+   
+   // dentro de la funcion, se usa la formula de distancia, velocidad y tiempo
+   posicion_auto = posicion_auto + distancia_auto; // actualizando la posicion del auto
+   auto_green.style.left = posicion_auto + 'px'; // cambiando la propiedad del auto 
+},unidad_tiempo_1)
+   </script>   
+
+   <!---taxi yellow-->
+<div>
+  <div id="taxi_yellow" style="
+   left: -300px;
+   top: 5px;
+   position: absolute;">
+  <a class="taxi">
+    <img
+    src="Taxi.png"
+    alt="Taxi yellow"
+    />
+  </a>
+</div>
+
+<!--movimiento taxi yellow-->
+   <script>
+    // se guarda una variable con todas las propiedades del taxi
+    var taxi_yellow = document.getElementById('taxi_yellow');
+
+// unidad de tiempo en millisegundos
+var unidad_tiempo_1 = 100;
+
+// con cada unidad de tiempo, ¿cuanta distancia va a viajar el taxi?
+var distancia_taxi = 5; // pixeles
+
+// la posicion del taxi
+var posicion_taxi = 0;
+
+// llamando setInterval para repetir una funcion
+setInterval(function(){
+   if (posicion_taxi < 0 || posicion_taxi > 1700) {
+       // cambiar el signo de la distancia
+       distancia_taxi = (-1)*distancia_taxi; 
+   }
+   // dentro de la funcion, se usa la formula de distancia, velocidad y tiempo
+   posicion_taxi = posicion_taxi + distancia_taxi; // actualizando la posicion del taxi
+   taxi_yellow.style.left = posicion_taxi + 'px'; // cambiando la propiedad del taxi
+},unidad_tiempo_1)
+   </script>   
+
+
 <!--Camioneta black-->
 <div>
   <div id="camioneta_black" style="
@@ -47,10 +467,11 @@ var posicion_camioneta = 0;
 
 // llamando setInterval para repetir una funcion
 setInterval(function(){
-    if (posicion_camioneta < 0, posicion_camioneta > 800) {
+    if (posicion_camioneta < 0, posicion_camioneta >= 800) {
         distancia_camioneta = (-1)*distancia_camioneta; // cambiar el signo de la distancia
-    }
-    if (posicion_camioneta >0 , posicion_camioneta < 800){
+      }
+    if (posicion_camioneta < 0, posicion_camioneta >800) {
+        
     }
     // dentro de la funcion, se usa la formula de distancia, velocidad y tiempo
     posicion_camioneta = posicion_camioneta + distancia_camioneta; // actualizando la posicion de la camioneta
@@ -58,9 +479,67 @@ setInterval(function(){
 },unidad_tiempo_1)
 //}//
 //setInterval (camioneta_start,1000)//
-</script>  -->
+</script> 
 
-/******CSS******/
+
+<div>
+  <a class="ciclista">
+    <img
+    src="Ciclista.png" 
+    alt="Ciclista man"
+    />
+  </a>
+</div>
+
+<div>
+  <a class="woman">
+    <img
+    src="Woman_running.png"
+    alt="Woman run"
+    />
+  </a>
+</div>
+
+<div>
+  <a class="woman_hat">
+    <img
+    src="Woman hat.png"
+    alt="woman hat red"/>
+    </a>
+</div>
+
+</div>
+
+</div>
+</header>
+
+</body>
+</html> 
+
+****CSS****
+/*-------Automoviles-------*/
+
+.auto img {
+    overflow: hidden;
+    z-index: 5;
+    margin-left: auto;
+    margin-right:auto;
+    position:absolute;
+    left: -1200px;
+    top: 737px;
+    height: 56px;
+    width: 120px;
+}
+.taxi img{
+    z-index: 5;
+    margin-left: auto;
+    margin-right:auto;
+    position:absolute;
+    left: -300px;
+    top: 696px;
+    height: 136px;
+    width: 180px;
+}
 .camioneta img{
     z-index: 1;
     margin-left: auto;
@@ -73,3 +552,32 @@ setInterval(function(){
     height: 130px;
     width: 140px;
 }
+.ciclista img{
+    position:absolute;
+    left: 980px;
+    top: 670px;
+    height: 70px;
+    width: 75px;
+}
+.woman img{
+    z-index: 0;
+    margin-left: auto;
+    margin-right:auto;
+    position:absolute;
+    left: 100px;
+    top: 660px;
+    height: 50px;
+    width: 100px;
+}
+.woman_hat{
+    z-index: 0;
+    margin-left: auto;
+    margin-right:auto;
+    position:absolute;
+    left: 100px;
+    top: 660px;
+    height: 50px;
+    width: 100px;
+}
+
+
