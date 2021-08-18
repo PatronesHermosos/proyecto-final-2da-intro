@@ -8,3 +8,6 @@
 - Algo más que queremos añadir sobre el proyecto: Agradecer las oportunidades y conocimientos tranferidos.
 
 No se olviden de entregar el código que ha escrito cada miembro del grupo en su carpeta grupal.
+
+Dejamos el link de Google Drive: https://drive.google.com/file/d/13KeswRqgu3D89_p_kyABXS3E1Ty3CRiH/view?usp=sharing
+En especial, la carpeta carousel y startbootstrap-blog-home-gh-pages. Las otras no fueron eliminadas debido a que bootstrap tiene alguno arreglos del código en otras carpetas. 
