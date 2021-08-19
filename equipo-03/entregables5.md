@@ -13,9 +13,10 @@ https://www.youtube.com/watch?v=JwyjHyGOgmg&t=237s
 Quitar fondo de imagen:
 https://www.remove.bg/upload
 
-- Graben un video de 5-min usando el modelo “Entrega 3 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí:
+- Graben un video de 5-min usando el modelo “Entrega 3 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí
+https://youtu.be/8_gRAH9qdbA
 
 - Algo más que queremos añadir sobre el proyecto:
-Todavia faltaron algunos ajustes en cuanto a los movimientos,  para hacerlos infinitos. 
+Todavia faltaron algunos ajustes en cuanto a los movimientos,  para hacerlos infinitos, tambien hay codigos como comentarios en HTML debido a que es otro codigo posible a mejorar para crear el movimiento que se desea.
 
 No se olviden de entregar el código que ha escrito cada miembro del grupo en su carpeta grupal.
