@@ -1,8 +1,8 @@
-- Numero del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
-- El título de su proyecto:
-- Resumen (2-3 frases) de su proyecto final:
+- Numero del equipo: 09
+- Nombre del equipo: Acción Sin Barreras
+- Nombre de todos miembros en tu equipo: Alejandra Galván, Ivanka Garcilazo, Mayra Hernández y Ximena Nuñez
+- El título de su proyecto: Acción Sin Barreras
+- Resumen (2-3 frases) de su proyecto final: Página web que busca concientizar e informar acerca de 3 grandes problemas: cambio climático, desigualdad de género y consumismo, así también busca invitar a las personas a tomar acciones simples pero con impacto.
 - La lista de recursos y referencias que han usado:
 - Graben un video de 5-min usando el modelo “Entrega 3 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - Algo más que queremos añadir sobre el proyecto:
