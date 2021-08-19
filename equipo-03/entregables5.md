@@ -2,7 +2,7 @@
 - Nombre del equipo: Code-Girls
 - Nombre de todos miembros en tu equipo: Estefania Vianey Rivas Gomez
 - El título de su proyecto:Transporte sustentable
-- Resumen (2-3 frases) de su proyecto final: Buen trabajo
+- Resumen (2-3 frases) de su proyecto final:  Faltaron unos ajustes en el codigo, pero el resultado es satisfactorio
 - La lista de recursos y referencias que han 
 Imagenes:
 https://www.vectorstock.com/royalty-free-vectors/elderly-vectors
