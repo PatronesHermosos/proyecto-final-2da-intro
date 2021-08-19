@@ -7,4 +7,4 @@
 - Graben un video de 5-min usando el modelo “Entrega 3 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - Algo más que queremos añadir sobre el proyecto:
 
-No se olviden de entregar el código que ha escrito cada miembro del grupo en su carpeta grupal.
+No se olviden de entregar el código que ha escrito cada miembro del grupo en su carpeta grupal. https://drive.google.com/file/d/1AHG_JZaN5LiRayBLfCUKNKk0h4cK5RTs/view?usp=sharing
