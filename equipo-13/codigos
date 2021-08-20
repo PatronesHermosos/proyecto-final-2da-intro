@@ -1,0 +1,228 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.84.0">
+    <title>Batallamos Juntas</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/carousel/">
+
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="carousel.css" rel="stylesheet">
+  </head>
+  <body>
+  <body bgcolor="#9999ff"
+  <a href="url" style="color: rgb(243, 233, 199)">  </a>
+  <font color="#FF7A59">  </font>
+ 
+<header>
+  
+    <div class="container-fluid"></div>
+      <center><h1>Batallamos Juntos</h1></center>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+          </li>
+        </ul>
+        <form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<main>
+  
+  <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+      <h3>No deberíamos juzgar a las personas por raza, género, orientación, etc. Porque al final
+        todos formamos a la sociedad. </h3>
+        <img src= "hola.jpg"
+        <svg class="bd-placeholder-img" width="95%" height="95%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
+        <div class="container">
+          <div class="carousel-caption text-start">
+            <h1>La lucha contra la desigualdad de género</h1>
+            <h3>La historia de la desigualdad y la batalla constante del género femenino a través de la historia .</h3>
+            <p><a class="btn btn-lg btn-primary" href="#">Ver más</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src= "https://img.freepik.com/free-vector/hand-drawn-feminist-flag_23-2148873708.jpg?size=338&ext=jpg"
+        <svg class="bd-placeholder-img" width="75%" height="75%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
+        <div class="container">
+          <div class="carousel-caption">
+            <h1>Víctimas de la dessigualdad a través del mundo.</h1>
+            <p>Femenicidios, brechas salariales y ausencia de derechos son pocos ejemplos de la desigualdad de género.</p>
+            <p><a class="btn btn-lg btn-primary" href="#">Ver más</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src= "mujeres.png"
+        <svg class="bd-placeholder-img" width="80%" height="80%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
+
+        <div class="container">
+          <div class="carousel-caption text-end">
+            <h1>Pasos para batallar la desigualdad.</h1>
+            <p>Los hechos que el mundo debe hacer para un ambiente de igualdad.</p>
+            <p><a class="btn btn-lg btn-primary" href="#">Ver más</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
+
+  <!-- Marketing messaging and featurettes
+  ================================================== -->
+  <!-- Wrap the rest of the page in another container to center all the content. -->
+
+  <div class="container marketing">
+
+    <!-- Three columns of text below the carousel -->
+    
+    <div class="row">
+      <div class="col-lg-4">
+        <img src= "https://jayfonseca.com/wp-content/uploads/2021/05/keishla.jpg"
+        <svg class="bd-placeholder-img" width="16%" height="20%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>      
+
+        
+        <h2>Keishla Rodríguez</h2>
+        <p>Conoce una de las historias de las víctimas de la violencia contra las mujeres en Puerto Rico.</p>
+        <p><a class="btn btn-secondary" href="#">Ver más &raquo;</a></p>
+      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+        <img src= "data:image/jpeg;base64,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"
+        <svg class="bd-placeholder-img" width="16%" height="20%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>      
+        <h2>Loujain al-Hathoul</h2>
+        <p>Conoce a al-Hathoul, víctima de leyes injustas en contra de las mujeres y "criminal" por guiar un carro. </p>
+        <p><a class="btn btn-secondary" href="#">Ver más &raquo;</a></p>
+      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+        <img src= "https://p2.trrsf.com/image/fget/cf/1200/1200/filters:quality(85)/images.terra.com/2020/02/12/110867509eqgfkgmwoaawzvg.jpg"
+        <svg class="bd-placeholder-img" width="16%" height="20%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>      
+        <h2>Ingrid Escamilla</h2>
+        <p>Conoce la historia de Ingrid Escamilla quien fue asesinada por su esposo en su casa.</p>
+        <p><a class="btn btn-secondary" href="#">Ver más &raquo;</a></p>
+      </div><!-- /.col-lg-4 -->
+
+    </div><!-- /.row -->
+
+
+    <!-- START THE FEATURETTES -->
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">Combatiendo la desigualdad de género a través de la educación. <span class="text-muted"></span></h2>
+        <p class="lead">Creemos que es fundamental enseñar que es la equidad, desigualdad y respeto para vivir en una sociedad libre de esteriotipos y malas ideas,
+          porque lo que buscamos no es que nos traten igual porque no todos tenemos las mismas capacidades, lo que buscamos es que nos den lo que nos merecemos 
+          sin importar raza, religión, preferencias,género,etc. Queremos vivir en un lugar donde todos podamos intentar o hacer las cosas sin ser juzgados por como somos.</p>
+      </div>
+      <div class="col-md-5">
+        <img src= "valores.png"
+        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">
+
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">Dando oportunidades ejecutivas y económicas a las mujeres, <span class="text-muted">podemos crear un mejor mañana.</span></h2>
+        <p class="lead">Muchas veces los hombres ganan más que las mujeres, lo cual consideramos que no es justo porque como antes lo hemos mencionado es mejor juzgar el trabajo de una persona por la calidad,eficiencia y tiempo,
+          entonces para cambiar esto pensamos en que se podría dar una oportunidad a las mujeres de hacer las cosas  .</p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        <img src= "brecha.jpg"
+        <svg class="bd-placeholder-img" width="70%" height="50%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
+
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">Obra de arte<span class="text-muted"></span></h2>
+        <p class="lead">.</p>
+      </div>
+      <div class="carousel-item">
+        <img src= "obra.png"
+        <svg class="bd-placeholder-img" width="50%" height="50%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
+      </div>
+    <hr class="featurette-divider">
+
+    <!-- /END THE FEATURETTES -->
+
+  </div><!-- /.container -->
+
+
+  
+  
+  <!-- FOOTER -->
+  <footer class="container">
+    <p class="float-end"><a href="#">Back to top</a></p>
+    
+  </footer>
+</main>
+
+
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+
+      
+  </body>
+</html>
