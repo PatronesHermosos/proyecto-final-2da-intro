@@ -1,4 +1,4 @@
-# Proyecto Final Primera Generación Curso Introductorio Patrones Hermosos
+# Proyecto Final Segunda Generación Curso Introductorio Patrones Hermosos
 
 Hola y bienvenidas!
 
